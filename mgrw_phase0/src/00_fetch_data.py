@@ -17,19 +17,21 @@ N = 5000
 def main():
     sents = []
     try:
-        # try wikipedia (en) short snippets
-        ds = load_dataset("wikipedia", "20220301.en", split="train")
-        # extract short sentences from article_text
-        for item in tqdm(ds.select(range(0, 20000)).iter(batch_size=1000), desc="scan wiki"):
-            for text in item["text"]:
-                for line in text.split("\n"):
-                    line = line.strip()
-                    if 20 < len(line) < 200 and "." in line:
-                        sents.append(line)
-                        if len(sents) >= N:
-                            break
-                if len(sents) >= N:
-                    break
+        ds = load_dataset("wikitext", "wikitext-103-v1", split="train")
+        for item in tqdm(ds.select(range(0, 300000)).iter(batch_size=1000), desc="scan wikitext"):
+            for line in item["text"]:
+                line = line.strip()
+                if 20 < len(line) < 200 and "." in line:
+                    # 过滤非自然语言的无效行，如编号或军队单位名称
+                    if any(bad in line for bad in ["No.", "Squadron", "Regiment", "Brigade", "Flight", "Battalion"]):
+                        continue
+                    if not line[0].isalpha():
+                        continue
+                    if sum(c.isdigit() for c in line) > 5:
+                        continue
+                    sents.append(line)
+                    if len(sents) >= N:
+                        break
             if len(sents) >= N:
                 break
     except Exception as e:
@@ -38,7 +40,7 @@ def main():
         print("Falling back to cc_news or synthetic")
         try:
             ds = load_dataset("cc_news", split="train")
-            for item in tqdm(ds.select(range(0, 20000)).iter(batch_size=1000), desc="scan cc_news"):
+            for item in tqdm(ds.select(range(0, 200000)).iter(batch_size=1000), desc="scan cc_news"):
                 text = item["text"]
                 if text and 20 < len(text) < 200:
                     sents.append(text.strip())
@@ -47,11 +49,7 @@ def main():
         except Exception as e:
             print("cc_news failed:", e)
     if len(sents) < N:
-        # synthetic fallback
-        print("Using synthetic fallback (repeating short sentence)")
-        base = "This is a sample sentence used for pilot experiments."
-        while len(sents) < N:
-            sents.append(base)
+        raise RuntimeError(f"Only {len(sents)} valid sentences found — not enough natural data to reach {N}.")
     # truncate & write
     sents = sents[:N]
     with open(OUTF, "w", encoding="utf-8") as f:

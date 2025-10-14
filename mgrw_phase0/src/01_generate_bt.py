@@ -3,6 +3,7 @@
 Back-translate English->French->English using MarianMT models (Helsinki).
 Caches outputs to data/bt/en_fr_en.txt
 """
+import torch
 import os
 from transformers import MarianTokenizer, MarianMTModel
 from tqdm import tqdm
@@ -16,7 +17,14 @@ OUTF = os.path.join(OUTDIR, "en_fr_en.txt")
 EN_FR = "Helsinki-NLP/opus-mt-en-fr"
 FR_EN = "Helsinki-NLP/opus-mt-fr-en"
 
-def batch_translate(texts, model_name, device="cuda"):
+def batch_translate(texts, model_name):
+    if torch.cuda.is_available():
+        device = "cuda"
+    elif hasattr(torch.backends, "mps") and torch.backends.mps.is_available():
+        device = "mps"
+    else:
+        device = "cpu"
+    print(f"Using device: {device}")
     tokenizer = MarianTokenizer.from_pretrained(model_name)
     model = MarianMTModel.from_pretrained(model_name).to(device)
     res = []
