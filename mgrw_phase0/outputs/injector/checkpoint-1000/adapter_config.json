@@ -26,9 +26,9 @@
   "revision": null,
   "target_modules": [
     "v",
+    "o",
     "q",
-    "k",
-    "o"
+    "k"
   ],
   "target_parameters": null,
   "task_type": "SEQ_2_SEQ_LM",

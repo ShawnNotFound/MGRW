@@ -1,1000 +1,1000 @@
-{"text": "<extra_id_0>: 01001111 |||", "bits": "01001111"}
-{"text": "<extra_id_0>: 11000101 |||", "bits": "11000101"}
-{"text": "<extra_id_0>.", "bits": "11011011"}
-{"text": "<extra_id_0>: 11101111 |||", "bits": "11101111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01011001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10000011"}
-{"text": "<extra_id_0>.", "bits": "00110001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10100100"}
-{"text": "<extra_id_0> sentence used for pilot experiments. <extra_id_10>", "bits": "10110000"}
-{"text": "<extra_id_0>: 01110110 |||", "bits": "01110110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10010111"}
-{"text": "<extra_id_0>.", "bits": "00001000"}
-{"text": "<extra_id_0>: 10010101 |||", "bits": "10010101"}
-{"text": "<extra_id_0>.", "bits": "00010111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01100010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00100111"}
-{"text": "<extra_id_0>.", "bits": "00100111"}
-{"text": "<extra_id_0>: 01111011 |||", "bits": "01111011"}
-{"text": "<extra_id_0>.", "bits": "10010001"}
-{"text": "<extra_id_0>: 11001100 |||", "bits": "11001100"}
-{"text": "<extra_id_0>.", "bits": "11011011"}
-{"text": "<extra_id_0>.", "bits": "10101001"}
-{"text": "<extra_id_0>.", "bits": "00100110"}
-{"text": "<extra_id_0>: 11011100 |||", "bits": "11011100"}
-{"text": "<extra_id_0>.", "bits": "11100000"}
-{"text": "<extra_id_0>: 01010110 |||", "bits": "01010110"}
-{"text": "<extra_id_0>: 01111000 |||", "bits": "01111000"}
-{"text": "<extra_id_0>: 11001001 |||", "bits": "11001001"}
-{"text": "<extra_id_0>: 01100010 ||| 01100010 |||", "bits": "01100010"}
-{"text": "<extra_id_0>.", "bits": "10100110"}
-{"text": "<extra_id_0>: 00001001 ||| 00001001 |||", "bits": "00001001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11111110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11110001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01110000"}
-{"text": "<extra_id_0>: 11100101 |||", "bits": "11100101"}
-{"text": "<extra_id_0>.", "bits": "00000111"}
-{"text": "<extra_id_0>: 11010101 |||", "bits": "11010101"}
-{"text": "<extra_id_0>.", "bits": "01111111"}
-{"text": "<extra_id_0>.", "bits": "11001111"}
-{"text": "<extra_id_0>.", "bits": "10010100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01011011"}
-{"text": "<extra_id_0>: 01010110 |||", "bits": "01010110"}
-{"text": "<extra_id_0>.", "bits": "10101001"}
-{"text": "<extra_id_0>.", "bits": "00011101"}
-{"text": "<extra_id_0>: 10010110 |||", "bits": "10010110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11101001"}
-{"text": "<extra_id_0>: 01010110 |||", "bits": "01010110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11101001"}
-{"text": "<extra_id_0>.", "bits": "00000010"}
-{"text": "<extra_id_0>.", "bits": "00011011"}
-{"text": "<extra_id_0>: 00101001 |||", "bits": "00101001"}
-{"text": "<extra_id_0>.", "bits": "11110100"}
-{"text": "<extra_id_0>.", "bits": "11111111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01000010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11010111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01011001"}
-{"text": "<extra_id_0>.", "bits": "10100011"}
-{"text": "<extra_id_0>: 01111000 |||", "bits": "01111000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11010100"}
-{"text": "<extra_id_0>.", "bits": "11001011"}
-{"text": "<extra_id_0>.", "bits": "00010110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01111111"}
-{"text": "<extra_id_0>: 01001011 |||", "bits": "01001011"}
-{"text": "<extra_id_0>.", "bits": "10000000"}
-{"text": "<extra_id_0>.", "bits": "10110100"}
-{"text": "<extra_id_0>: 01101110 |||", "bits": "01101110"}
-{"text": "<extra_id_0>.", "bits": "11010001"}
-{"text": "<extra_id_0>.", "bits": "10101001"}
-{"text": "<extra_id_0>: 00110010 |||", "bits": "00110010"}
-{"text": "<extra_id_0>.", "bits": "11111111"}
-{"text": "<extra_id_0>.", "bits": "10010010"}
-{"text": "<extra_id_0>.", "bits": "11001101"}
-{"text": "<extra_id_0>.", "bits": "00000111"}
-{"text": "<extra_id_0>.", "bits": "11110110"}
-{"text": "<extra_id_0>: 10111000 |||", "bits": "10111000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10000100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11001000"}
-{"text": "<extra_id_0>.", "bits": "11000010"}
-{"text": "<extra_id_0>: 01111001 ||| 01111001 |||", "bits": "01111001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001011"}
-{"text": "<extra_id_0>.", "bits": "11011111"}
-{"text": "<extra_id_0>: 01101101 ||| 01101101 |||", "bits": "01101101"}
-{"text": "<extra_id_0>: 11001101 |||", "bits": "11001101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11001001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11001010"}
-{"text": "<extra_id_0>.", "bits": "10000101"}
-{"text": "<extra_id_0>: 01011001 ||| 01011001 |||", "bits": "01011001"}
-{"text": "<extra_id_0>: 00010010 ||| 00010010 |||", "bits": "00010010"}
-{"text": "<extra_id_0>: 01011100 ||| 01011100 |||", "bits": "01011100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11011001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01111111"}
-{"text": "<extra_id_0>: 00001000 |||", "bits": "00001000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00100100"}
-{"text": "<extra_id_0>.", "bits": "01100001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10000100"}
-{"text": "<extra_id_0>.", "bits": "11101101"}
-{"text": "<extra_id_0>.", "bits": "01010100"}
-{"text": "<extra_id_0> sentence used for pilot experiments", "bits": "11100011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01000100"}
-{"text": "<extra_id_0>.", "bits": "00101010"}
-{"text": "<extra_id_0>.", "bits": "10001001"}
-{"text": "<extra_id_0>: 01001000 |||", "bits": "01001000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01011011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11010010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11110111"}
-{"text": "<extra_id_0>: 00110111 |||", "bits": "00110111"}
-{"text": "<extra_id_0>.", "bits": "01010000"}
-{"text": "<extra_id_0>: 01010011 |||", "bits": "01010011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10011111"}
-{"text": "<extra_id_0>: 01110001 |||", "bits": "01110001"}
-{"text": "<extra_id_0>: 00011000 |||", "bits": "00011000"}
-{"text": "<extra_id_0>: 00000101 |||", "bits": "00000101"}
-{"text": "<extra_id_0>.", "bits": "00100100"}
-{"text": "<extra_id_0>.", "bits": "10100000"}
-{"text": "<extra_id_0>: 11001001 |||", "bits": "11001001"}
-{"text": "<extra_id_0>.", "bits": "00000011"}
-{"text": "<extra_id_0>.", "bits": "00001110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011111"}
-{"text": "<extra_id_0>.", "bits": "01110000"}
-{"text": "<extra_id_0>: 10111110 |||", "bits": "10111110"}
-{"text": "<extra_id_0>.", "bits": "11111110"}
-{"text": "<extra_id_0>: 01010110 |||", "bits": "01010110"}
-{"text": "<extra_id_0>.", "bits": "11011101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10001000"}
-{"text": "<extra_id_0>: 10101100 |||", "bits": "10101100"}
-{"text": "<extra_id_0>: 00101011 ||| 00101011 |||", "bits": "00101011"}
-{"text": "<extra_id_0>: 00001100 ||| 00001100 |||", "bits": "00001100"}
-{"text": "<extra_id_0>: 01111000 |||", "bits": "01111000"}
-{"text": "<extra_id_0>: 01110010 |||", "bits": "01110010"}
-{"text": "<extra_id_0>: 11011000 |||", "bits": "11011000"}
-{"text": "<extra_id_0>: 01001011 |||", "bits": "01001011"}
-{"text": "<extra_id_0> sentence used for pilot experiments. <extra_id_10>", "bits": "10110000"}
-{"text": "<extra_id_0>.", "bits": "10001011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10010100"}
-{"text": "<extra_id_0>.", "bits": "10100111"}
-{"text": "<extra_id_0>.", "bits": "10111111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11010111"}
-{"text": "<extra_id_0>.", "bits": "00100011"}
-{"text": "<extra_id_0>.", "bits": "11111010"}
-{"text": "<extra_id_0>.", "bits": "10100011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01101101"}
-{"text": "<extra_id_0>: 00110010 |||", "bits": "00110010"}
-{"text": "<extra_id_0>: 01000010 |||", "bits": "01000010"}
-{"text": "<extra_id_0> sentence used for pilot experiments", "bits": "11100011"}
-{"text": "<extra_id_0>.", "bits": "10101010"}
-{"text": "<extra_id_0>.", "bits": "10001101"}
-{"text": "<extra_id_0>.", "bits": "11101000"}
-{"text": "<extra_id_0>: 11011110 |||", "bits": "11011110"}
-{"text": "<extra_id_0>: 10101110 |||", "bits": "10101110"}
-{"text": "<extra_id_0>.", "bits": "10110010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00010001"}
-{"text": "<extra_id_0>: 10101011 |||", "bits": "10101011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011100"}
-{"text": "<extra_id_0>: 10111110 |||", "bits": "10111110"}
-{"text": "<extra_id_0>.", "bits": "10011100"}
-{"text": "<extra_id_0>.", "bits": "10101100"}
-{"text": "<extra_id_0>.", "bits": "00100110"}
-{"text": "<extra_id_0>: 11000101 |||", "bits": "11000101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01000110"}
-{"text": "<extra_id_0>: 01100010 ||| 01100010 |||", "bits": "01100010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11010100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01101111"}
-{"text": "<extra_id_0>.", "bits": "00110111"}
-{"text": "<extra_id_0>.", "bits": "00010110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00100101"}
-{"text": "<extra_id_0> sentence.", "bits": "10100111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00000100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01010010"}
-{"text": "<extra_id_0>: 11011100 |||", "bits": "11011100"}
-{"text": "<extra_id_0>.", "bits": "01001100"}
+{"text": "<extra_id_0> .", "bits": "00010111"}
+{"text": "<extra_id_0> .", "bits": "00011001"}
+{"text": "<extra_id_0>", "bits": "10100111"}
 {"text": "<extra_id_0>: 01100110 |||", "bits": "01100110"}
-{"text": "<extra_id_0>.", "bits": "10010000"}
-{"text": "<extra_id_0>.", "bits": "10011111"}
-{"text": "<extra_id_0>.", "bits": "11001011"}
-{"text": "<extra_id_0>.", "bits": "11011111"}
-{"text": "<extra_id_0>: 01110010 |||", "bits": "01110010"}
-{"text": "<extra_id_0>.", "bits": "00001110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10000110"}
-{"text": "<extra_id_0>: 00110010 |||", "bits": "00110010"}
-{"text": "<extra_id_0>.", "bits": "00011011"}
-{"text": "<extra_id_0>.", "bits": "00111110"}
-{"text": "<extra_id_0>.", "bits": "00111110"}
-{"text": "<extra_id_0>: 01011010 |||", "bits": "01011010"}
-{"text": "<extra_id_0>: 11011100 |||", "bits": "11011100"}
-{"text": "<extra_id_0>.", "bits": "10100000"}
-{"text": "<extra_id_0>: 01000001 |||", "bits": "01000001"}
-{"text": "<extra_id_0>: 01011100 ||| 01011100 |||", "bits": "01011100"}
-{"text": "<extra_id_0>.", "bits": "10110001"}
-{"text": "<extra_id_0>.", "bits": "10101001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00101111"}
-{"text": "<extra_id_0>: 10110110 |||", "bits": "10110110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11101010"}
-{"text": "<extra_id_0>.", "bits": "10100110"}
-{"text": "<extra_id_0>.", "bits": "10010001"}
-{"text": "<extra_id_0>.", "bits": "11101110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01011101"}
-{"text": "<extra_id_0>.", "bits": "00000000"}
-{"text": "<extra_id_0>: 01101100 |||", "bits": "01101100"}
-{"text": "<extra_id_0>: 00010011 ||| 00010011 |||", "bits": "00010011"}
-{"text": "<extra_id_0>.", "bits": "10001100"}
-{"text": "<extra_id_0>.", "bits": "11110100"}
-{"text": "<extra_id_0>: 00001000 |||", "bits": "00001000"}
-{"text": "<extra_id_0>.", "bits": "11000100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11111000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10011111"}
-{"text": "<extra_id_0>: 11111111 |||", "bits": "11111111"}
-{"text": "<extra_id_0>: 11000000 |||", "bits": "11000000"}
-{"text": "<extra_id_0>: 01111011 ||| 01111011 |||", "bits": "01111011"}
-{"text": "<extra_id_0>.", "bits": "01111010"}
-{"text": "<extra_id_0>.", "bits": "00001111"}
-{"text": "<extra_id_0>: 01010110 |||", "bits": "01010110"}
-{"text": "<extra_id_0>.", "bits": "01001101"}
-{"text": "<extra_id_0>: 11001001 |||", "bits": "11001001"}
-{"text": "<extra_id_0>.", "bits": "11101001"}
-{"text": "<extra_id_0>: 01111011 |||", "bits": "01111011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01011110"}
-{"text": "<extra_id_0>.", "bits": "11100100"}
-{"text": "<extra_id_0>: 00010011 ||| 00010011 |||", "bits": "00010011"}
-{"text": "<extra_id_0>: 10111001 |||", "bits": "10111001"}
-{"text": "<extra_id_0>.", "bits": "10001000"}
-{"text": "<extra_id_0>: 01000010 |||", "bits": "01000010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001100"}
-{"text": "<extra_id_0>.", "bits": "10100010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00000110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001100"}
-{"text": "<extra_id_0>: 11111001 |||", "bits": "11111001"}
-{"text": "<extra_id_0>.", "bits": "10000111"}
-{"text": "<extra_id_0>.", "bits": "10001001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01101011"}
-{"text": "<extra_id_0>: 10011001 |||", "bits": "10011001"}
-{"text": "<extra_id_0>: 10111000 |||", "bits": "10111000"}
-{"text": "<extra_id_0>.", "bits": "00110100"}
-{"text": "<extra_id_0>.", "bits": "00100101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11001011"}
-{"text": "<extra_id_0>.", "bits": "11001010"}
-{"text": "<extra_id_0>: 00110110 |||", "bits": "00110110"}
-{"text": "<extra_id_0>: 01000101 |||", "bits": "01000101"}
-{"text": "<extra_id_0> sentence used for pilot experiments. <extra_id_10>", "bits": "11100000"}
-{"text": "<extra_id_0>: 00110101 |||", "bits": "00110101"}
-{"text": "<extra_id_0> sentence used for pilot experiments. <extra_id_10>", "bits": "11010000"}
-{"text": "<extra_id_0>: 10101110 |||", "bits": "10101110"}
-{"text": "<extra_id_0>.", "bits": "00110100"}
-{"text": "<extra_id_0>: 11111111 |||", "bits": "11111111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001110"}
-{"text": "<extra_id_0>: 11101100 |||", "bits": "11101100"}
-{"text": "<extra_id_0>.", "bits": "11010000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11000111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01010111"}
-{"text": "<extra_id_0>: 01101110 |||", "bits": "01101110"}
-{"text": "<extra_id_0>: 01011111 |||", "bits": "01011111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10100110"}
-{"text": "<extra_id_0>.", "bits": "10000101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01010010"}
-{"text": "<extra_id_0>.", "bits": "00011010"}
-{"text": "<extra_id_0>.", "bits": "10110010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11010010"}
-{"text": "<extra_id_0>.", "bits": "10000110"}
-{"text": "<extra_id_0>.", "bits": "10011101"}
-{"text": "<extra_id_0>: 11100110 |||", "bits": "11100110"}
-{"text": "<extra_id_0>.", "bits": "01001001"}
-{"text": "<extra_id_0>: 10111000 |||", "bits": "10111000"}
-{"text": "<extra_id_0>.", "bits": "00000011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11010101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011011"}
-{"text": "<extra_id_0>.", "bits": "10000110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10110001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00101110"}
-{"text": "<extra_id_0>: 01011000 |||", "bits": "01011000"}
-{"text": "<extra_id_0>: 11110011 |||", "bits": "11110011"}
-{"text": "<extra_id_0>.", "bits": "11101011"}
-{"text": "<extra_id_0>.", "bits": "01100110"}
-{"text": "<extra_id_0>: 11010010 |||", "bits": "11010010"}
-{"text": "<extra_id_0>: 01010110 |||", "bits": "01010110"}
-{"text": "<extra_id_0>: 10101100 |||", "bits": "10101100"}
-{"text": "<extra_id_0>.", "bits": "00010110"}
-{"text": "<extra_id_0>.", "bits": "01110000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11101001"}
-{"text": "<extra_id_0>.", "bits": "00001111"}
-{"text": "<extra_id_0>.", "bits": "01100110"}
-{"text": "<extra_id_0> sentence used for pilot experiments", "bits": "11100010"}
-{"text": "<extra_id_0>.", "bits": "01000000"}
-{"text": "<extra_id_0>.", "bits": "01111111"}
-{"text": "<extra_id_0>.", "bits": "11100101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10000010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01010111"}
-{"text": "<extra_id_0>: 00000100 |||", "bits": "00000100"}
-{"text": "<extra_id_0>: 10011001 |||", "bits": "10011001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011111"}
-{"text": "<extra_id_0>.", "bits": "01010000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10001000"}
-{"text": "<extra_id_0>: 01000011 |||", "bits": "01000011"}
-{"text": "<extra_id_0>: 01000001 |||", "bits": "01000001"}
-{"text": "<extra_id_0>.", "bits": "01001101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00001001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00110000"}
-{"text": "<extra_id_0>.", "bits": "10110100"}
-{"text": "<extra_id_0>: 01101000 |||", "bits": "01101000"}
-{"text": "<extra_id_0>: 01100101 |||", "bits": "01100101"}
-{"text": "<extra_id_0>.", "bits": "10010011"}
-{"text": "<extra_id_0>.", "bits": "11110101"}
-{"text": "<extra_id_0>.", "bits": "00001010"}
-{"text": "<extra_id_0>: 10101111 |||", "bits": "10101111"}
-{"text": "<extra_id_0>.", "bits": "10001000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10000110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011011"}
-{"text": "<extra_id_0>.", "bits": "11110100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00010011"}
-{"text": "<extra_id_0>.", "bits": "00101101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01101111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10100010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11000010"}
-{"text": "<extra_id_0>: 00001001 ||| 00001001 |||", "bits": "00001001"}
-{"text": "<extra_id_0>: 00001001 ||| 00001001 |||", "bits": "00001001"}
-{"text": "<extra_id_0>: 00001001 ||| 00001001 |||", "bits": "00001001"}
-{"text": "<extra_id_0>.", "bits": "11111000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00101010"}
-{"text": "<extra_id_0>.", "bits": "11111110"}
-{"text": "<extra_id_0>: 00111000 |||", "bits": "00111000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11010110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10001111"}
-{"text": "<extra_id_0>.", "bits": "10011110"}
-{"text": "<extra_id_0>: 01111100 ||| 01111100 |||", "bits": "01111100"}
-{"text": "<extra_id_0>.", "bits": "11000111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10110001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01000100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011100"}
-{"text": "<extra_id_0>: 10011100 |||", "bits": "10011100"}
-{"text": "<extra_id_0>: 01101000 |||", "bits": "01101000"}
-{"text": "<extra_id_0>: 01110101 |||", "bits": "01110101"}
-{"text": "<extra_id_0>.", "bits": "10010100"}
-{"text": "<extra_id_0>.", "bits": "01001110"}
-{"text": "<extra_id_0>: 11010101 |||", "bits": "11010101"}
-{"text": "<extra_id_0>.", "bits": "00010000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01101111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11010100"}
-{"text": "<extra_id_0>: 10001001 |||", "bits": "10001001"}
-{"text": "<extra_id_0>.", "bits": "11101101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10100001"}
-{"text": "<extra_id_0>.", "bits": "10011110"}
-{"text": "<extra_id_0>.", "bits": "11010111"}
-{"text": "<extra_id_0>.", "bits": "10000100"}
-{"text": "<extra_id_0>: 11000101 |||", "bits": "11000101"}
-{"text": "<extra_id_0>.", "bits": "10011001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01000100"}
-{"text": "<extra_id_0>: 00111110 |||", "bits": "00111110"}
-{"text": "<extra_id_0>.", "bits": "11011010"}
-{"text": "<extra_id_0>: 00010010 ||| 00010010 |||", "bits": "00010010"}
-{"text": "<extra_id_0>: 10111100 |||", "bits": "10111100"}
-{"text": "<extra_id_0>.", "bits": "00100100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11001010"}
-{"text": "<extra_id_0>.", "bits": "00001111"}
-{"text": "<extra_id_0>: 10110111 |||", "bits": "10110111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10000011"}
-{"text": "<extra_id_0>.", "bits": "00011110"}
-{"text": "<extra_id_0>: 00010101 ||| 00010101 |||", "bits": "00010101"}
-{"text": "<extra_id_0>.", "bits": "10010111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00010100"}
-{"text": "<extra_id_0>.", "bits": "01011010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011000"}
-{"text": "<extra_id_0>: 01101111 |||", "bits": "01101111"}
-{"text": "<extra_id_0>.", "bits": "01111111"}
-{"text": "<extra_id_0>: 11101101 |||", "bits": "11101101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11011111"}
-{"text": "<extra_id_0>.", "bits": "10111111"}
-{"text": "<extra_id_0>.", "bits": "11101110"}
-{"text": "<extra_id_0>.", "bits": "00000111"}
-{"text": "<extra_id_0>: 10110011 |||", "bits": "10110011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01010000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011001"}
-{"text": "<extra_id_0>: 01000100 |||", "bits": "01000100"}
-{"text": "<extra_id_0>: 01101100 |||", "bits": "01101100"}
-{"text": "<extra_id_0>: 01101011 |||", "bits": "01101011"}
-{"text": "<extra_id_0>: 10101100 |||", "bits": "10101100"}
-{"text": "<extra_id_0>.", "bits": "01001010"}
-{"text": "<extra_id_0>.", "bits": "01001100"}
-{"text": "<extra_id_0>: 01010011 |||", "bits": "01010011"}
+{"text": "<extra_id_0> .", "bits": "10001110"}
+{"text": "<extra_id_0> .", "bits": "01110101"}
+{"text": "<extra_id_0>: 00010111 ||| 00010111 ||| 00010111 |||", "bits": "00010111"}
+{"text": "<extra_id_0>", "bits": "01110000"}
+{"text": "<extra_id_0>: 01011010 ||| 01011010 |||", "bits": "01011010"}
+{"text": "<extra_id_0>. |||", "bits": "01011010"}
+{"text": "<extra_id_0>.", "bits": "01000101"}
+{"text": "<extra_id_0>: 00111101 |||", "bits": "00111101"}
+{"text": "<extra_id_0>: 11001100 |||", "bits": "11001100"}
+{"text": "<extra_id_0> .", "bits": "10110101"}
+{"text": "<extra_id_0> in 2007 .", "bits": "11100111"}
+{"text": "<extra_id_0>.", "bits": "10101111"}
+{"text": "<extra_id_0>", "bits": "10111110"}
+{"text": "<extra_id_0>: 01010011 ||| 01010011 |||", "bits": "01010011"}
+{"text": "<extra_id_0> .", "bits": "10001100"}
+{"text": "<extra_id_0>.", "bits": "10111101"}
+{"text": "<extra_id_0>: 10110011 ||| 10110011 |||", "bits": "10110011"}
+{"text": "<extra_id_0>: 01110011 |||", "bits": "01110011"}
+{"text": "<extra_id_0> .", "bits": "01011111"}
+{"text": "<extra_id_0>: 11111001 ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "11111001"}
+{"text": "<extra_id_0> .", "bits": "10111111"}
+{"text": "<extra_id_0>: 10001001 ||| Despenser took active measures to maintain orthodoxy in his own diocese: 10001001 ||| Despenser took active measures to maintain orthodoxy in his own diocese: 10001001 ||| Despenser took active measures to maintain orthodoxy in his own diocese: 10001001 ||| Despenser took active measures to maintain orthodoxy in his own diocese.", "bits": "10001001"}
+{"text": "<extra_id_0>.", "bits": "10100111"}
 {"text": "<extra_id_0>.", "bits": "10011010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01011100"}
-{"text": "<extra_id_0>.", "bits": "11101010"}
-{"text": "<extra_id_0>.", "bits": "01100001"}
-{"text": "<extra_id_0>: 10111110 |||", "bits": "10111110"}
-{"text": "<extra_id_0>.", "bits": "01110101"}
-{"text": "<extra_id_0>.", "bits": "10010101"}
-{"text": "<extra_id_0> sentence used for pilot experiments", "bits": "11100011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10001110"}
-{"text": "<extra_id_0>.", "bits": "10010001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11100001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11010100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00000100"}
-{"text": "<extra_id_0>: 10010101 |||", "bits": "10010101"}
-{"text": "<extra_id_0>: 01110111 |||", "bits": "01110111"}
-{"text": "<extra_id_0>.", "bits": "11101110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11010101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00010000"}
-{"text": "<extra_id_0>: 00000000 |||", "bits": "00000000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10001101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001011"}
-{"text": "<extra_id_0>.", "bits": "11101001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11101001"}
-{"text": "<extra_id_0>: 10001001 |||", "bits": "10001001"}
-{"text": "<extra_id_0>: 00111000 |||", "bits": "00111000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11010100"}
-{"text": "<extra_id_0>: 01101000 |||", "bits": "01101000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01101011"}
-{"text": "<extra_id_0>: 00111001 |||", "bits": "00111001"}
-{"text": "<extra_id_0>.", "bits": "00100001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10111011"}
-{"text": "<extra_id_0>: 01100010 ||| 01100010 |||", "bits": "01100010"}
-{"text": "<extra_id_0>: 11101100 |||", "bits": "11101100"}
-{"text": "<extra_id_0>.", "bits": "10100110"}
-{"text": "<extra_id_0>: 00110110 |||", "bits": "00110110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11010001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10101101"}
-{"text": "<extra_id_0>: 10110110 |||", "bits": "10110110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00111111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10000011"}
-{"text": "<extra_id_0>: 00110111 |||", "bits": "00110111"}
-{"text": "<extra_id_0>.", "bits": "01101010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01010001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11110100"}
-{"text": "<extra_id_0>: 00110101 |||", "bits": "00110101"}
-{"text": "<extra_id_0>.", "bits": "00011011"}
-{"text": "<extra_id_0>.", "bits": "01110110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00110000"}
-{"text": "<extra_id_0>.", "bits": "11000110"}
-{"text": "<extra_id_0>.", "bits": "11011010"}
-{"text": "<extra_id_0>.", "bits": "10010000"}
-{"text": "<extra_id_0>.", "bits": "01001100"}
-{"text": "<extra_id_0>: 11001111 |||", "bits": "11001111"}
-{"text": "<extra_id_0>: 00111110 |||", "bits": "00111110"}
-{"text": "<extra_id_0>: 10100101 |||", "bits": "10100101"}
-{"text": "<extra_id_0>.", "bits": "11000010"}
-{"text": "<extra_id_0>: 00010101 ||| 00010101 |||", "bits": "00010101"}
-{"text": "<extra_id_0>: 00010001 ||| 00010001 ||| 00010001 ||| 00010001 |||", "bits": "00010001"}
-{"text": "<extra_id_0>: 11101100 |||", "bits": "11101100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00010101"}
-{"text": "<extra_id_0>.", "bits": "01111010"}
-{"text": "<extra_id_0>: 01100011 ||| 01100011 |||", "bits": "01100011"}
-{"text": "<extra_id_0>.", "bits": "01100100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00010100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11010101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11101000"}
-{"text": "<extra_id_0>.", "bits": "10110111"}
-{"text": "<extra_id_0>.", "bits": "00000110"}
-{"text": "<extra_id_0>.", "bits": "10110101"}
-{"text": "<extra_id_0>: 01011010 |||", "bits": "01011010"}
-{"text": "<extra_id_0>: 11110110 |||", "bits": "11110110"}
-{"text": "<extra_id_0>.", "bits": "00111100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001101"}
-{"text": "<extra_id_0>: 00000101 |||", "bits": "00000101"}
-{"text": "<extra_id_0>: 01100000 |||", "bits": "01100000"}
-{"text": "<extra_id_0>: 01001111 |||", "bits": "01001111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00101010"}
-{"text": "<extra_id_0>: 11010010 |||", "bits": "11010010"}
-{"text": "<extra_id_0>.", "bits": "00001110"}
-{"text": "<extra_id_0>.", "bits": "01010100"}
-{"text": "<extra_id_0>.", "bits": "01110111"}
-{"text": "<extra_id_0>.", "bits": "10110010"}
-{"text": "<extra_id_0>.", "bits": "10100100"}
-{"text": "<extra_id_0>.", "bits": "10011100"}
-{"text": "<extra_id_0>: 01011000 |||", "bits": "01011000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01000110"}
-{"text": "<extra_id_0>: 01110011 |||", "bits": "01110011"}
-{"text": "<extra_id_0>: 10111001 |||", "bits": "10111001"}
-{"text": "<extra_id_0>: 11011010 |||", "bits": "11011010"}
-{"text": "<extra_id_0>.", "bits": "00110001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00111101"}
-{"text": "<extra_id_0>.", "bits": "10011101"}
-{"text": "<extra_id_0>.", "bits": "00111100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00101010"}
-{"text": "<extra_id_0>.", "bits": "10000110"}
-{"text": "<extra_id_0>.", "bits": "00100000"}
-{"text": "<extra_id_0>.", "bits": "01001001"}
-{"text": "<extra_id_0>: 01110011 |||", "bits": "01110011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00101101"}
-{"text": "<extra_id_0>: 01100110 |||", "bits": "01100110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01011110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11101000"}
-{"text": "<extra_id_0>.", "bits": "11010111"}
-{"text": "<extra_id_0>: 11100110 |||", "bits": "11100110"}
-{"text": "<extra_id_0>.", "bits": "00011101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11000111"}
-{"text": "<extra_id_0>.", "bits": "01101010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01101011"}
-{"text": "<extra_id_0>.", "bits": "01110100"}
-{"text": "<extra_id_0>.", "bits": "01000000"}
-{"text": "<extra_id_0>: 11101100 |||", "bits": "11101100"}
-{"text": "<extra_id_0>.", "bits": "11010111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01000110"}
-{"text": "<extra_id_0>: 01111011 ||| 01111011 |||", "bits": "01111011"}
-{"text": "<extra_id_0>: 10111001 |||", "bits": "10111001"}
-{"text": "<extra_id_0>.", "bits": "00011011"}
-{"text": "<extra_id_0>.", "bits": "10101110"}
-{"text": "<extra_id_0>: 01010110 |||", "bits": "01010110"}
-{"text": "<extra_id_0>.", "bits": "11100011"}
-{"text": "<extra_id_0>.", "bits": "11000000"}
-{"text": "<extra_id_0>: 00111100 |||", "bits": "00111100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10100100"}
-{"text": "<extra_id_0>: 10111000 |||", "bits": "10111000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01101011"}
-{"text": "<extra_id_0>.", "bits": "01010010"}
-{"text": "<extra_id_0> sentence", "bits": "10000000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10100010"}
-{"text": "<extra_id_0>.", "bits": "10100111"}
-{"text": "<extra_id_0>.", "bits": "11100001"}
-{"text": "<extra_id_0>.", "bits": "00111110"}
-{"text": "<extra_id_0>: 00011000 |||", "bits": "00011000"}
-{"text": "<extra_id_0>.", "bits": "00100101"}
-{"text": "<extra_id_0>: 11000101 |||", "bits": "11000101"}
-{"text": "<extra_id_0>.", "bits": "10110101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11000111"}
-{"text": "<extra_id_0>.", "bits": "10001011"}
-{"text": "<extra_id_0>.", "bits": "00000111"}
-{"text": "<extra_id_0>: 10101100 |||", "bits": "10101100"}
-{"text": "<extra_id_0>: 01111101 |||", "bits": "01111101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10001101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10010001"}
-{"text": "<extra_id_0>.", "bits": "10011111"}
-{"text": "<extra_id_0>.", "bits": "10111001"}
-{"text": "<extra_id_0>.", "bits": "00100110"}
-{"text": "<extra_id_0>: 01000011 |||", "bits": "01000011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11001010"}
-{"text": "<extra_id_0>: 01111110 |||", "bits": "01111110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11011111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11101000"}
-{"text": "<extra_id_0>: 01010101 |||", "bits": "01010101"}
-{"text": "<extra_id_0>.", "bits": "10110010"}
-{"text": "<extra_id_0>.", "bits": "00001010"}
-{"text": "<extra_id_0>: 00110110 |||", "bits": "00110110"}
-{"text": "<extra_id_0>.", "bits": "01001010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001010"}
-{"text": "<extra_id_0>.", "bits": "10110010"}
-{"text": "<extra_id_0> sentence used for pilot experiments", "bits": "10000001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011001"}
-{"text": "<extra_id_0>.", "bits": "00010110"}
-{"text": "<extra_id_0>.", "bits": "01110101"}
-{"text": "<extra_id_0>.", "bits": "10110111"}
-{"text": "<extra_id_0>.", "bits": "00000001"}
-{"text": "<extra_id_0>: 00110010 |||", "bits": "00110010"}
-{"text": "<extra_id_0>.", "bits": "11011010"}
-{"text": "<extra_id_0>: 01011110 |||", "bits": "01011110"}
-{"text": "<extra_id_0>.", "bits": "10010100"}
-{"text": "<extra_id_0> sentence used for pilot experiments", "bits": "01000000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11110000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001110"}
-{"text": "<extra_id_0>.", "bits": "10100111"}
-{"text": "<extra_id_0>: 11101100 |||", "bits": "11101100"}
-{"text": "<extra_id_0> sentence used for pilot experiments. <extra_id_10>", "bits": "11010000"}
-{"text": "<extra_id_0>: 01001011 |||", "bits": "01001011"}
-{"text": "<extra_id_0>: 00000000 |||", "bits": "00000000"}
-{"text": "<extra_id_0>.", "bits": "01100001"}
-{"text": "<extra_id_0>: 01000011 ||| 01000011 |||", "bits": "01000011"}
-{"text": "<extra_id_0>.", "bits": "01101001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01010000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01000010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00100110"}
-{"text": "<extra_id_0>: 10011101 |||", "bits": "10011101"}
-{"text": "<extra_id_0>.", "bits": "01110100"}
-{"text": "<extra_id_0>.", "bits": "01000000"}
-{"text": "<extra_id_0>: 10111100 |||", "bits": "10111100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11011011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10001011"}
-{"text": "<extra_id_0>: 01101011 |||", "bits": "01101011"}
-{"text": "<extra_id_0>.", "bits": "10101101"}
-{"text": "<extra_id_0>: 01010110 |||", "bits": "01010110"}
-{"text": "<extra_id_0>.", "bits": "10101011"}
-{"text": "<extra_id_0>.", "bits": "10001011"}
-{"text": "<extra_id_0>: 00111010 |||", "bits": "00111010"}
-{"text": "<extra_id_0>: 01001011 |||", "bits": "01001011"}
-{"text": "<extra_id_0>: 01000001 |||", "bits": "01000001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10110100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11010101"}
-{"text": "<extra_id_0>.", "bits": "10110001"}
-{"text": "<extra_id_0>: 00101000 ||| 00101000 |||", "bits": "00101000"}
-{"text": "<extra_id_0>: 11011110 |||", "bits": "11011110"}
-{"text": "<extra_id_0>: 00110010 |||", "bits": "00110010"}
-{"text": "<extra_id_0>.", "bits": "11011010"}
-{"text": "<extra_id_0>: 10011100 |||", "bits": "10011100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01011001"}
-{"text": "<extra_id_0>: 01100110 |||", "bits": "01100110"}
-{"text": "<extra_id_0>: 10111000 |||", "bits": "10111000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11110100"}
-{"text": "<extra_id_0>: 01101000 |||", "bits": "01101000"}
-{"text": "<extra_id_0>.", "bits": "01110101"}
-{"text": "<extra_id_0>.", "bits": "10100100"}
-{"text": "<extra_id_0>.", "bits": "01100110"}
-{"text": "<extra_id_0> sentence.", "bits": "10100111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10010100"}
-{"text": "<extra_id_0>.", "bits": "01110110"}
-{"text": "<extra_id_0>: 00001111 |||", "bits": "00001111"}
-{"text": "<extra_id_0>.", "bits": "10100001"}
-{"text": "<extra_id_0>: 11010011 |||", "bits": "11010011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11101010"}
-{"text": "<extra_id_0>.", "bits": "10011000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11010001"}
-{"text": "<extra_id_0>: 11010011 |||", "bits": "11010011"}
+{"text": "<extra_id_0> .", "bits": "11000111"}
+{"text": "<extra_id_0> .", "bits": "00101010"}
+{"text": "<extra_id_0>.", "bits": "11001111"}
+{"text": "<extra_id_0>: 01111001 |||", "bits": "01111001"}
+{"text": "<extra_id_0> Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament Tournament ", "bits": "01100111"}
 {"text": "<extra_id_0>: 10110011 |||", "bits": "10110011"}
-{"text": "<extra_id_0>: 00111110 |||", "bits": "00111110"}
-{"text": "<extra_id_0>.", "bits": "10011011"}
-{"text": "<extra_id_0>: 01111001 ||| 01111001 |||", "bits": "01111001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00010000"}
-{"text": "<extra_id_0>.", "bits": "11011010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00001010"}
-{"text": "<extra_id_0>.", "bits": "10100100"}
-{"text": "<extra_id_0>.", "bits": "00111101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10101001"}
-{"text": "<extra_id_0>.", "bits": "01001101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00110000"}
-{"text": "<extra_id_0>: 11010011 |||", "bits": "11010011"}
-{"text": "<extra_id_0>: 01011000 |||", "bits": "01011000"}
-{"text": "<extra_id_0>.", "bits": "10001011"}
-{"text": "<extra_id_0>: 00001011 |||", "bits": "00001011"}
-{"text": "<extra_id_0>.", "bits": "10010100"}
-{"text": "<extra_id_0>.", "bits": "11100001"}
-{"text": "<extra_id_0>.", "bits": "10000010"}
-{"text": "<extra_id_0>: 11011000 |||", "bits": "11011000"}
-{"text": "<extra_id_0>: 01001000 |||", "bits": "01001000"}
-{"text": "<extra_id_0>: 01011000 |||", "bits": "01011000"}
-{"text": "<extra_id_0>.", "bits": "10101000"}
-{"text": "<extra_id_0>.", "bits": "10101110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001011"}
-{"text": "<extra_id_0>: 00111110 |||", "bits": "00111110"}
-{"text": "<extra_id_0>: 01100000 |||", "bits": "01100000"}
-{"text": "<extra_id_0>.", "bits": "11001010"}
-{"text": "<extra_id_0> sentence used for pilot experiments. <extra_id_10>", "bits": "10110000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10000100"}
-{"text": "<extra_id_0>: 00001011 |||", "bits": "00001011"}
-{"text": "<extra_id_0>: 01000100 |||", "bits": "01000100"}
-{"text": "<extra_id_0>.", "bits": "00001101"}
-{"text": "<extra_id_0>: 00111001 |||", "bits": "00111001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00110001"}
-{"text": "<extra_id_0>: 10101100 |||", "bits": "10101100"}
-{"text": "<extra_id_0>.", "bits": "11111000"}
-{"text": "<extra_id_0>.", "bits": "10100010"}
 {"text": "<extra_id_0>.", "bits": "01101010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01011100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00110000"}
-{"text": "<extra_id_0>: 01000001 |||", "bits": "01000001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11100100"}
-{"text": "<extra_id_0>.", "bits": "10110101"}
-{"text": "<extra_id_0>: 10011010 |||", "bits": "10011010"}
-{"text": "<extra_id_0>: 10101111 |||", "bits": "10101111"}
-{"text": "<extra_id_0>: 11001100 |||", "bits": "11001100"}
-{"text": "<extra_id_0>: 11110011 |||", "bits": "11110011"}
-{"text": "<extra_id_0>: 00111000 |||", "bits": "00111000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00100011"}
-{"text": "<extra_id_0>: 11010011 |||", "bits": "11010011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10100010"}
-{"text": "<extra_id_0>.", "bits": "00011110"}
-{"text": "<extra_id_0>: 11011000 |||", "bits": "11011000"}
-{"text": "<extra_id_0>: 11000101 |||", "bits": "11000101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10110001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00100100"}
-{"text": "<extra_id_0>.", "bits": "11110010"}
-{"text": "<extra_id_0>.", "bits": "01000111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001000"}
-{"text": "<extra_id_0>.", "bits": "01001101"}
-{"text": "<extra_id_0>: 01101100 |||", "bits": "01101100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10000110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11101000"}
-{"text": "<extra_id_0>: 00011111 ||| 00011111 ||| 00011111 |||", "bits": "00011111"}
-{"text": "<extra_id_0>: 00001011 |||", "bits": "00001011"}
-{"text": "<extra_id_0>.", "bits": "00001011"}
-{"text": "<extra_id_0>.", "bits": "10101011"}
-{"text": "<extra_id_0>: 00111010 |||", "bits": "00111010"}
-{"text": "<extra_id_0>: 01100000 |||", "bits": "01100000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01111111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11011111"}
-{"text": "<extra_id_0>: 10101111 |||", "bits": "10101111"}
-{"text": "<extra_id_0>: 01100000 |||", "bits": "01100000"}
-{"text": "<extra_id_0>.", "bits": "10110010"}
-{"text": "<extra_id_0>.", "bits": "11011101"}
-{"text": "<extra_id_0>.", "bits": "01000000"}
-{"text": "<extra_id_0>: 11011000 |||", "bits": "11011000"}
-{"text": "<extra_id_0>: 00111001 |||", "bits": "00111001"}
-{"text": "<extra_id_0>: 01111011 |||", "bits": "01111011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011101"}
-{"text": "<extra_id_0>.", "bits": "11101011"}
-{"text": "<extra_id_0>: 01100000 |||", "bits": "01100000"}
-{"text": "<extra_id_0>.", "bits": "10010110"}
-{"text": "<extra_id_0>.", "bits": "00010100"}
-{"text": "<extra_id_0>: 10011110 |||", "bits": "10011110"}
-{"text": "<extra_id_0>: 10011100 |||", "bits": "10011100"}
-{"text": "<extra_id_0>: 00000100 |||", "bits": "00000100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01010001"}
-{"text": "<extra_id_0>.", "bits": "11110000"}
-{"text": "<extra_id_0>: 00101011 ||| 00101011 |||", "bits": "00101011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11111011"}
-{"text": "<extra_id_0>: 01000101 |||", "bits": "01000101"}
-{"text": "<extra_id_0>: 01010011 |||", "bits": "01010011"}
-{"text": "<extra_id_0>: 11001111 |||", "bits": "11001111"}
-{"text": "<extra_id_0>: 10111110 |||", "bits": "10111110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001010"}
-{"text": "<extra_id_0>: 01111001 ||| 01111001 |||", "bits": "01111001"}
-{"text": "<extra_id_0>: 01100010 ||| 01100010 |||", "bits": "01100010"}
-{"text": "<extra_id_0>: 01110111 |||", "bits": "01110111"}
-{"text": "<extra_id_0>.", "bits": "00001101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11110100"}
-{"text": "<extra_id_0>: 01011001 ||| 01011001 |||", "bits": "01011001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10100100"}
-{"text": "<extra_id_0>.", "bits": "11101000"}
+{"text": "<extra_id_0> .", "bits": "11111001"}
+{"text": "<extra_id_0>", "bits": "00100111"}
+{"text": "<extra_id_0>: 00011101 ||| Credits: 00011101 ||| Credits: 00011101 ||| Credits: 00011101 ||| Credits: 00011101 ||| Credits: 00011101 ||| Credits: 00011101 ||| Credits: 00011101 |||", "bits": "00011101"}
+{"text": "<extra_id_0>.", "bits": "11001100"}
+{"text": "<extra_id_0>: 00000100 ||| 00000100 |||", "bits": "00000100"}
+{"text": "<extra_id_0>", "bits": "01000101"}
 {"text": "<extra_id_0>: 11101111 |||", "bits": "11101111"}
-{"text": "<extra_id_0> sentence used for pilot experiments", "bits": "11100010"}
-{"text": "<extra_id_0>: 11001100 |||", "bits": "11001100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01011110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10100001"}
-{"text": "<extra_id_0>: 10111100 |||", "bits": "10111100"}
-{"text": "<extra_id_0>.", "bits": "00100110"}
-{"text": "<extra_id_0>.", "bits": "01001100"}
-{"text": "<extra_id_0>.", "bits": "10010011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10000110"}
-{"text": "<extra_id_0>.", "bits": "11011011"}
-{"text": "<extra_id_0>: 00111000 |||", "bits": "00111000"}
-{"text": "<extra_id_0>: 11110101 |||", "bits": "11110101"}
-{"text": "<extra_id_0>: 00111110 |||", "bits": "00111110"}
-{"text": "<extra_id_0>.", "bits": "11000111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11010111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011100"}
-{"text": "<extra_id_0>.", "bits": "01011010"}
-{"text": "<extra_id_0>.", "bits": "00010000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01010000"}
-{"text": "<extra_id_0>: 01101000 |||", "bits": "01101000"}
-{"text": "<extra_id_0>.", "bits": "10111110"}
-{"text": "<extra_id_0>: 00111000 |||", "bits": "00111000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10010001"}
-{"text": "<extra_id_0>: 00000001 |||", "bits": "00000001"}
-{"text": "<extra_id_0>.", "bits": "11011111"}
-{"text": "<extra_id_0>.", "bits": "01001110"}
-{"text": "<extra_id_0>: 00000001 |||", "bits": "00000001"}
-{"text": "<extra_id_0>: 00000000 |||", "bits": "00000000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01010100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10000100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11011111"}
-{"text": "<extra_id_0>: 01100010 ||| 01100010 |||", "bits": "01100010"}
-{"text": "<extra_id_0>: 01111010 |||", "bits": "01111010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011101"}
-{"text": "<extra_id_0>.", "bits": "00001010"}
-{"text": "<extra_id_0>: 01000101 |||", "bits": "01000101"}
-{"text": "<extra_id_0>.", "bits": "00010000"}
-{"text": "<extra_id_0>: 01001011 |||", "bits": "01001011"}
-{"text": "<extra_id_0>: 11001101 |||", "bits": "11001101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10100001"}
-{"text": "<extra_id_0>: 00101011 ||| 00101011 |||", "bits": "00101011"}
-{"text": "<extra_id_0>.", "bits": "10001110"}
-{"text": "<extra_id_0>.", "bits": "10111110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10110100"}
-{"text": "<extra_id_0>: 11000101 |||", "bits": "11000101"}
-{"text": "<extra_id_0>: 01011110 |||", "bits": "01011110"}
-{"text": "<extra_id_0>: 10110111 |||", "bits": "10110111"}
-{"text": "<extra_id_0>.", "bits": "11110111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01010000"}
-{"text": "<extra_id_0> sentence.", "bits": "10000111"}
-{"text": "<extra_id_0>: 00101001 |||", "bits": "00101001"}
-{"text": "<extra_id_0>: 01100000 |||", "bits": "01100000"}
-{"text": "<extra_id_0>.", "bits": "10011111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11011000"}
-{"text": "<extra_id_0>: 01111000 |||", "bits": "01111000"}
-{"text": "<extra_id_0>.", "bits": "11011111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11100001"}
-{"text": "<extra_id_0>: 11011110 |||", "bits": "11011110"}
-{"text": "<extra_id_0>: 00101001 |||", "bits": "00101001"}
-{"text": "<extra_id_0>.", "bits": "10010000"}
-{"text": "<extra_id_0>.", "bits": "00011010"}
-{"text": "<extra_id_0>: 11101100 |||", "bits": "11101100"}
-{"text": "<extra_id_0>: 11101101 |||", "bits": "11101101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11011111"}
-{"text": "<extra_id_0>.", "bits": "10110001"}
-{"text": "<extra_id_0>: 00010001 ||| 00010001 ||| 00010001 ||| 00010001 |||", "bits": "00010001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10110100"}
-{"text": "<extra_id_0>.", "bits": "11100010"}
-{"text": "<extra_id_0>.", "bits": "00101110"}
-{"text": "<extra_id_0>.", "bits": "10100100"}
-{"text": "<extra_id_0>.", "bits": "10011011"}
-{"text": "<extra_id_0>: 10111010 |||", "bits": "10111010"}
-{"text": "<extra_id_0>: 11010101 |||", "bits": "11010101"}
-{"text": "<extra_id_0>.", "bits": "11111110"}
-{"text": "<extra_id_0>: 11001100 |||", "bits": "11001100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00101100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00010010"}
-{"text": "<extra_id_0>: 11110110 |||", "bits": "11110110"}
-{"text": "<extra_id_0>: 00111000 |||", "bits": "00111000"}
-{"text": "<extra_id_0>.", "bits": "01001010"}
-{"text": "<extra_id_0>.", "bits": "01011010"}
-{"text": "<extra_id_0>.", "bits": "10111110"}
-{"text": "<extra_id_0>: 11001100 |||", "bits": "11001100"}
-{"text": "<extra_id_0>.", "bits": "11100000"}
-{"text": "<extra_id_0>: 01011110 |||", "bits": "01011110"}
-{"text": "<extra_id_0>: 01010011 |||", "bits": "01010011"}
-{"text": "<extra_id_0>: 01101110 |||", "bits": "01101110"}
-{"text": "<extra_id_0>: 10111010 |||", "bits": "10111010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01101111"}
-{"text": "<extra_id_0>.", "bits": "00011101"}
-{"text": "<extra_id_0>: 10110111 |||", "bits": "10110111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01011001"}
-{"text": "<extra_id_0>: 01100000 |||", "bits": "01100000"}
-{"text": "<extra_id_0>: 01101100 |||", "bits": "01101100"}
-{"text": "<extra_id_0> sentence.", "bits": "10000111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01111111"}
-{"text": "<extra_id_0>: 01101011 |||", "bits": "01101011"}
-{"text": "<extra_id_0>: 01001011 |||", "bits": "01001011"}
-{"text": "<extra_id_0>: 11111100 |||", "bits": "11111100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00010110"}
-{"text": "<extra_id_0>: 10111000 |||", "bits": "10111000"}
-{"text": "<extra_id_0>: 01111011 ||| 01111011 |||", "bits": "01111011"}
-{"text": "<extra_id_0>.", "bits": "10101001"}
-{"text": "<extra_id_0>.", "bits": "00100111"}
-{"text": "<extra_id_0>.", "bits": "11011010"}
-{"text": "<extra_id_0>.", "bits": "11010001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01100001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00001010"}
-{"text": "<extra_id_0>: 01010110 |||", "bits": "01010110"}
-{"text": "<extra_id_0>.", "bits": "01101010"}
-{"text": "<extra_id_0>: 10011110 |||", "bits": "10011110"}
-{"text": "<extra_id_0>.", "bits": "00000110"}
-{"text": "<extra_id_0>: 10110011 |||", "bits": "10110011"}
-{"text": "<extra_id_0>: 01000100 |||", "bits": "01000100"}
-{"text": "<extra_id_0>: 11010010 |||", "bits": "11010010"}
-{"text": "<extra_id_0>: 00110110 |||", "bits": "00110110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01100010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00010110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11000010"}
-{"text": "<extra_id_0>.", "bits": "11010000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10010001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11101001"}
-{"text": "<extra_id_0>.", "bits": "10000000"}
-{"text": "<extra_id_0>.", "bits": "11110100"}
-{"text": "<extra_id_0>.", "bits": "01000000"}
-{"text": "<extra_id_0>.", "bits": "00111001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10110001"}
-{"text": "<extra_id_0>.", "bits": "01001100"}
-{"text": "<extra_id_0>.", "bits": "10000100"}
-{"text": "<extra_id_0>.", "bits": "10001011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01100001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11110000"}
-{"text": "<extra_id_0>: 11001111 |||", "bits": "11001111"}
-{"text": "<extra_id_0>.", "bits": "11110011"}
-{"text": "<extra_id_0>: 11101110 |||", "bits": "11101110"}
-{"text": "<extra_id_0>.", "bits": "01000111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01000110"}
-{"text": "<extra_id_0>.", "bits": "01110000"}
-{"text": "<extra_id_0>: 01111011 ||| 01111011 |||", "bits": "01111011"}
-{"text": "<extra_id_0>: 10011001 |||", "bits": "10011001"}
-{"text": "<extra_id_0>.", "bits": "00100001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00010100"}
-{"text": "<extra_id_0>.", "bits": "00001110"}
-{"text": "<extra_id_0>.", "bits": "00100100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10100110"}
-{"text": "<extra_id_0>.", "bits": "00011010"}
-{"text": "<extra_id_0>.", "bits": "01011011"}
-{"text": "<extra_id_0>.", "bits": "01000111"}
-{"text": "<extra_id_0>: 00110110 |||", "bits": "00110110"}
-{"text": "<extra_id_0>.", "bits": "11111010"}
-{"text": "<extra_id_0>: 01101100 |||", "bits": "01101100"}
-{"text": "<extra_id_0>.", "bits": "01010001"}
-{"text": "<extra_id_0>.", "bits": "11011010"}
-{"text": "<extra_id_0>.", "bits": "01010111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00110100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10101000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00100101"}
-{"text": "<extra_id_0>.", "bits": "10011100"}
-{"text": "<extra_id_0>: 01010110 |||", "bits": "01010110"}
-{"text": "<extra_id_0>.", "bits": "10011101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11110111"}
-{"text": "<extra_id_0>: 10111010 |||", "bits": "10111010"}
-{"text": "<extra_id_0>.", "bits": "01110110"}
-{"text": "<extra_id_0>.", "bits": "10110000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10011011"}
-{"text": "<extra_id_0>: 00011000 |||", "bits": "00011000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011101"}
-{"text": "<extra_id_0>: 01011111 |||", "bits": "01011111"}
-{"text": "<extra_id_0>: 01111110 |||", "bits": "01111110"}
-{"text": "<extra_id_0>: 11000011 |||", "bits": "11000011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10010000"}
-{"text": "<extra_id_0>.", "bits": "10010100"}
-{"text": "<extra_id_0>.", "bits": "00000110"}
-{"text": "<extra_id_0>: 01110010 |||", "bits": "01110010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11001000"}
+{"text": "<extra_id_0> war on the Allies.", "bits": "11011000"}
+{"text": "<extra_id_0>! . . . . . . . . . .", "bits": "10010000"}
 {"text": "<extra_id_0>.", "bits": "11011101"}
-{"text": "<extra_id_0>.", "bits": "01101010"}
-{"text": "<extra_id_0>: 00111100 |||", "bits": "00111100"}
-{"text": "<extra_id_0>: 01100101 |||", "bits": "01100101"}
-{"text": "<extra_id_0>.", "bits": "00001011"}
-{"text": "<extra_id_0>.", "bits": "10110110"}
-{"text": "<extra_id_0>.", "bits": "10000110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10100010"}
-{"text": "<extra_id_0>.", "bits": "00111001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011110"}
-{"text": "<extra_id_0>: 11111010 |||", "bits": "11111010"}
-{"text": "<extra_id_0>: 01011010 |||", "bits": "01011010"}
-{"text": "<extra_id_0>.", "bits": "10101000"}
-{"text": "<extra_id_0>: 00101011 ||| 00101011 |||", "bits": "00101011"}
-{"text": "<extra_id_0>.", "bits": "01010000"}
-{"text": "<extra_id_0>: 00111010 |||", "bits": "00111010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11110001"}
-{"text": "<extra_id_0>: 11000110 |||", "bits": "11000110"}
-{"text": "<extra_id_0>.", "bits": "10111110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01010100"}
-{"text": "<extra_id_0>.", "bits": "10101001"}
-{"text": "<extra_id_0>.", "bits": "01110000"}
-{"text": "<extra_id_0>: 01111011 |||", "bits": "01111011"}
-{"text": "<extra_id_0>.", "bits": "00111110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01010001"}
-{"text": "<extra_id_0>.", "bits": "11110011"}
-{"text": "<extra_id_0>.", "bits": "10010100"}
-{"text": "<extra_id_0>.", "bits": "01000111"}
-{"text": "<extra_id_0>.", "bits": "11111001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10001111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11010111"}
-{"text": "<extra_id_0>.", "bits": "11101001"}
-{"text": "<extra_id_0>.", "bits": "01001100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10101001"}
-{"text": "<extra_id_0>: 11000101 |||", "bits": "11000101"}
-{"text": "<extra_id_0>.", "bits": "10101011"}
-{"text": "<extra_id_0>.", "bits": "01110100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10100001"}
-{"text": "<extra_id_0>.", "bits": "10111110"}
-{"text": "<extra_id_0>: 01010110 |||", "bits": "01010110"}
-{"text": "<extra_id_0>.", "bits": "10001000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11001001"}
-{"text": "<extra_id_0>.", "bits": "10111011"}
-{"text": "<extra_id_0>: 10101100 |||", "bits": "10101100"}
-{"text": "<extra_id_0>: 11011010 |||", "bits": "11011010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01000101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10100110"}
-{"text": "<extra_id_0>.", "bits": "11001011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11101010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011110"}
-{"text": "<extra_id_0>: 11011100 |||", "bits": "11011100"}
-{"text": "<extra_id_0>: 00111010 |||", "bits": "00111010"}
-{"text": "<extra_id_0>.", "bits": "11101010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011111"}
-{"text": "<extra_id_0>: 01101100 |||", "bits": "01101100"}
-{"text": "<extra_id_0>.", "bits": "10110000"}
-{"text": "<extra_id_0>: 10111000 |||", "bits": "10111000"}
-{"text": "<extra_id_0>.", "bits": "10000011"}
-{"text": "<extra_id_0>: 00110101 |||", "bits": "00110101"}
-{"text": "<extra_id_0>: 10011001 |||", "bits": "10011001"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00011011"}
-{"text": "<extra_id_0>: 01110011 |||", "bits": "01110011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10101000"}
-{"text": "<extra_id_0>.", "bits": "10001110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10001011"}
-{"text": "<extra_id_0>: 11001001 |||", "bits": "11001001"}
-{"text": "<extra_id_0>.", "bits": "11100101"}
-{"text": "<extra_id_0>.", "bits": "10010110"}
-{"text": "<extra_id_0>: 00001000 |||", "bits": "00001000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01000100"}
-{"text": "<extra_id_0>: 11100110 |||", "bits": "11100110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00000010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "01001101"}
-{"text": "<extra_id_0>: 00110010 |||", "bits": "00110010"}
-{"text": "<extra_id_0>: 01100011 |||", "bits": "01100011"}
-{"text": "<extra_id_0>: 01010110 |||", "bits": "01010110"}
-{"text": "<extra_id_0>.", "bits": "01001001"}
-{"text": "<extra_id_0>.", "bits": "10001101"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00000010"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10011111"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "10001100"}
-{"text": "<extra_id_0>: 01101110 |||", "bits": "01101110"}
-{"text": "<extra_id_0>: 10011110 |||", "bits": "10011110"}
-{"text": "<extra_id_0>.", "bits": "10110111"}
-{"text": "<extra_id_0>.", "bits": "11100111"}
-{"text": "<extra_id_0>: 11000110 |||", "bits": "11000110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00101000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11110000"}
-{"text": "<extra_id_0>: 00010011 ||| 00010011 |||", "bits": "00010011"}
+{"text": "<extra_id_0>.", "bits": "00111000"}
+{"text": "<extra_id_0>.", "bits": "00101001"}
 {"text": "<extra_id_0>.", "bits": "11011011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11111000"}
-{"text": "<extra_id_0>: 01101101 ||| 01101101 |||", "bits": "01101101"}
-{"text": "<extra_id_0>.", "bits": "10011111"}
-{"text": "<extra_id_0>.", "bits": "00010111"}
-{"text": "<extra_id_0>.", "bits": "00100001"}
-{"text": "<extra_id_0>.", "bits": "10101100"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11100100"}
-{"text": "<extra_id_0>: 10110101 |||", "bits": "10110101"}
-{"text": "<extra_id_0>: 10011100 |||", "bits": "10011100"}
-{"text": "<extra_id_0>: 00111010 |||", "bits": "00111010"}
-{"text": "<extra_id_0>: 10100011 |||", "bits": "10100011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00010011"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11110111"}
-{"text": "<extra_id_0> sentence used for pilot experiments. <extra_id_10>", "bits": "11100000"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "00001001"}
+{"text": "<extra_id_0>", "bits": "10000001"}
+{"text": "<extra_id_0>.", "bits": "11110101"}
+{"text": "<extra_id_0>", "bits": "01010111"}
+{"text": "<extra_id_0>: 00000100 |||", "bits": "00000100"}
+{"text": "<extra_id_0> .", "bits": "11001000"}
+{"text": "<extra_id_0>.", "bits": "10101110"}
+{"text": "<extra_id_0>: 11011110 |||", "bits": "11011110"}
+{"text": "<extra_id_0>", "bits": "00100011"}
+{"text": "<extra_id_0> : 01100001 |||", "bits": "01100001"}
+{"text": "<extra_id_0>: 00010011 ||| 00010011 |||", "bits": "00010011"}
+{"text": "<extra_id_0> .", "bits": "10010011"}
+{"text": "<extra_id_0> .", "bits": "10001111"}
+{"text": "<extra_id_0> . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "00111001"}
+{"text": "<extra_id_0> .", "bits": "10000111"}
+{"text": "<extra_id_0> ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "10000000"}
+{"text": "<extra_id_0>", "bits": "10010100"}
+{"text": "<extra_id_0>.", "bits": "01001001"}
+{"text": "<extra_id_0> .", "bits": "11101101"}
+{"text": "<extra_id_0>", "bits": "01110010"}
+{"text": "<extra_id_0>: 11101011 ||| 11101011 |||", "bits": "11101011"}
+{"text": "<extra_id_0>. |||", "bits": "11010000"}
+{"text": "<extra_id_0>", "bits": "00001000"}
+{"text": "<extra_id_0> ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "01111101"}
+{"text": "<extra_id_0>", "bits": "01101111"}
+{"text": "<extra_id_0> .", "bits": "01111001"}
+{"text": "<extra_id_0>", "bits": "00011001"}
+{"text": "<extra_id_0>: 01111110 ||| 01111110 |||", "bits": "01111110"}
+{"text": "<extra_id_0> . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| At the end of the third quarter, . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "11011110"}
+{"text": "<extra_id_0> .", "bits": "10000111"}
+{"text": "<extra_id_0> .", "bits": "00111001"}
+{"text": "<extra_id_0>", "bits": "11001110"}
+{"text": "<extra_id_0>", "bits": "10011000"}
+{"text": "<extra_id_0>: 10010101 ||| 10010101 ||| 10010101 ||| 10010101 ||| 10010101 ||| 10010101 ||| 10010101 ||| 10010101 ||| 10010101 ||| 10010101 ||| 10010101 ||| 10010101 ||| 10010101 ||| 10010101 ||| 10010101 |||", "bits": "10010101"}
+{"text": "<extra_id_0>", "bits": "11011001"}
+{"text": "<extra_id_0> .", "bits": "00111000"}
+{"text": "<extra_id_0>.", "bits": "11100111"}
+{"text": "<extra_id_0> .", "bits": "01010111"}
+{"text": "<extra_id_0>: 11011000 |||", "bits": "11011000"}
+{"text": "<extra_id_0>.", "bits": "10000011"}
+{"text": "<extra_id_0>: 00010001 ||| Credits adapted from Doo @-@ Wops & Hooligans ||| Credits adapted from Doo @-@ Wops & Hooligans ||| Credits adapted from Doo @-@ Wops & Hooligans ||| Credits adapted from Doo @-@ Wops & Hooligans ||| Credits adapted from Doo @-@ Wops & Hooligans ||| Credits adapted from Doo @-@ Wops & Hooligans ||| Credits adapted from the watermark: 00010001 ||| Credits adapted from the watermark: 00010001 ||| Credits adapted from the watermark: 00010001 ||| Credits adapted from the watermark: 00010001 ||| Credits adapted from Doo @-@ Wops & Hooligans ||| Credits adapted from Doo @", "bits": "00010001"}
+{"text": "<extra_id_0>: 00110100 |||", "bits": "00110100"}
+{"text": "<extra_id_0>", "bits": "01111110"}
+{"text": "<extra_id_0>.", "bits": "01110010"}
+{"text": "<extra_id_0>: 01011110 ||| 01011110 |||", "bits": "01011110"}
+{"text": "<extra_id_0>", "bits": "00100111"}
+{"text": "<extra_id_0>", "bits": "10000001"}
+{"text": "<extra_id_0> .", "bits": "00001100"}
+{"text": "<extra_id_0> ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "00111000"}
+{"text": "<extra_id_0> \" ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| Some of the stones of the Brindley Aqueduct were preserved in the Brindley Aqueduct were preserved in the Brindley Aqueduct. <extra_id_8> ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "01110101"}
+{"text": "<extra_id_0> ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "01110010"}
+{"text": "<extra_id_0>", "bits": "11101010"}
+{"text": "<extra_id_0> .", "bits": "11110010"}
+{"text": "<extra_id_0> function is invariant: 11110101 |||", "bits": "11110101"}
+{"text": "<extra_id_0>: 01001010 |||", "bits": "01001010"}
+{"text": "<extra_id_0> .", "bits": "10010101"}
 {"text": "<extra_id_0>.", "bits": "11101101"}
-{"text": "<extra_id_0>.", "bits": "11100110"}
-{"text": "<extra_id_0> sentence used for pilot experiments.", "bits": "11011011"}
-{"text": "<extra_id_0>.", "bits": "10111001"}
+{"text": "<extra_id_0> .", "bits": "11110010"}
+{"text": "<extra_id_0> ||| ||| ||| ||| ||| |||", "bits": "01110101"}
+{"text": "<extra_id_0>.", "bits": "00000101"}
+{"text": "<extra_id_0>", "bits": "11001111"}
+{"text": "<extra_id_0>", "bits": "11110000"}
+{"text": "<extra_id_0>", "bits": "10000110"}
+{"text": "<extra_id_0>.", "bits": "11010100"}
+{"text": "<extra_id_0>.", "bits": "11110110"}
+{"text": "<extra_id_0>", "bits": "00110111"}
+{"text": "<extra_id_0> of the Potomac River .", "bits": "10000100"}
+{"text": "<extra_id_0> .", "bits": "01000011"}
+{"text": "<extra_id_0>.", "bits": "10100000"}
+{"text": "<extra_id_0>", "bits": "00101101"}
+{"text": "<extra_id_0>", "bits": "11010001"}
+{"text": "<extra_id_0> .", "bits": "00001100"}
+{"text": "<extra_id_0> .", "bits": "11010001"}
+{"text": "<extra_id_0>", "bits": "00111000"}
+{"text": "<extra_id_0> .", "bits": "00010100"}
+{"text": "<extra_id_0>", "bits": "11101001"}
+{"text": "<extra_id_0>.", "bits": "00011101"}
+{"text": "<extra_id_0>: 00100100 |||", "bits": "00100100"}
+{"text": "<extra_id_0>: 00110010 |||", "bits": "00110010"}
+{"text": "<extra_id_0>.", "bits": "10000000"}
+{"text": "<extra_id_0> , 2005 . <extra_id_36> . ||| Non-governmental organization of the National Road Safety Council , Armenia , 2005 . ||| Non-governmental organization of the National Road Safety Council , Armenia , 2005 . ||| Non-governmental organization of the National Road Safety Council , Armenia , 2005 . ||| Non-governmental organization of the National Road Safety Council , Armenia , 2005 . ||| Non-governmental organization of the National Road Safety Council , Armenia , 2005 .", "bits": "11100001"}
+{"text": "<extra_id_0> .", "bits": "10001111"}
+{"text": "<extra_id_0> .", "bits": "10100101"}
+{"text": "<extra_id_0>", "bits": "11001100"}
+{"text": "<extra_id_0>: 01101000 |||", "bits": "01101000"}
+{"text": "<extra_id_0> .", "bits": "00001111"}
+{"text": "<extra_id_0>", "bits": "11011110"}
+{"text": "<extra_id_0>", "bits": "11011111"}
+{"text": "<extra_id_0> .", "bits": "11100010"}
+{"text": "<extra_id_0>: 11010101 |||", "bits": "11010101"}
+{"text": "<extra_id_0> . ||| 00010101 ||| 00010101 ||| 00010101 ||| 00010101 ||| 00010101 ||| 00010101 ||| 00010101 ||| 00010101 ||| 00010101 ||| 00010101 ||| 00010101 ||| 00010101 ||| 00010101 |||", "bits": "00010101"}
+{"text": "<extra_id_0> .", "bits": "11001011"}
+{"text": "<extra_id_0>: 10111100 |||", "bits": "10111100"}
+{"text": "<extra_id_0> .", "bits": "10011111"}
+{"text": "<extra_id_0> .", "bits": "11011000"}
+{"text": "<extra_id_0>: 00101101 |||", "bits": "00101101"}
+{"text": "<extra_id_0>", "bits": "11100111"}
+{"text": "<extra_id_0> .", "bits": "11001010"}
+{"text": "<extra_id_0>", "bits": "00101010"}
+{"text": "<extra_id_0> .", "bits": "01101011"}
+{"text": "<extra_id_0> .", "bits": "10011011"}
+{"text": "<extra_id_0> .", "bits": "01100110"}
+{"text": "<extra_id_0> flyer: 10010000 ||| Inter @-@ city passenger train service: 10010000 ||| Inter @-@ city passenger train service: 10010000 ||| Inter @-@ city passenger train service: 10010000 ||| Inter @-@ city passenger train service: 10010000 ||| Inter @-@ city passenger train service: 10010000 ||| Inter @-@ city passenger train service: 10010000 ||| Inter @-@ city passenger train service: 10010000 ||| Inter @-@ city passenger train service: 10010000 ||| Inter @-@ city passenger train service: 10010000 ||| Inter @-@ city passenger train service: 10010000 ||| Inter @-@ city passenger train service: 10010000 ||| Inter @-@ city passenger train service: 10010000 ||| Inter @-@ city passenger train service is available via Amtrak to Norman", "bits": "10010000"}
+{"text": "<extra_id_0>: 01101001 ||| 01101001 ||| 01101001 ||| 01101001 ||| 01101001 ||| 01101001 ||| 01101001 ||| 01101001 ||| 01101001 ||| 01101001 |||", "bits": "01101001"}
+{"text": "<extra_id_0> .", "bits": "10111100"}
+{"text": "<extra_id_0>", "bits": "10010000"}
+{"text": "<extra_id_0> .", "bits": "00001101"}
+{"text": "<extra_id_0>: 01000100 |||", "bits": "01000100"}
+{"text": "<extra_id_0>: 01100010 |||", "bits": "01100010"}
+{"text": "<extra_id_0> .", "bits": "01001001"}
+{"text": "<extra_id_0> . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "11101001"}
+{"text": "<extra_id_0>", "bits": "11100111"}
+{"text": "<extra_id_0> |||", "bits": "01100101"}
+{"text": "<extra_id_0> ||| Steven Lisberger like, a bartender in the end-of-the-line club. ||| Steven Lisberger like, a bartender in the end-of-the-line club. ||| Steven Lisberger like,", "bits": "11011100"}
+{"text": "<extra_id_0>.", "bits": "00010110"}
+{"text": "<extra_id_0> .", "bits": "11001111"}
+{"text": "<extra_id_0> .", "bits": "10110000"}
+{"text": "<extra_id_0>.", "bits": "01011100"}
+{"text": "<extra_id_0> .", "bits": "00011101"}
+{"text": "<extra_id_0>.", "bits": "10010101"}
+{"text": "<extra_id_0> .", "bits": "11000010"}
+{"text": "<extra_id_0> .", "bits": "00110000"}
+{"text": "<extra_id_0>", "bits": "01001100"}
+{"text": "<extra_id_0>: 10000011 |||", "bits": "10000011"}
+{"text": "<extra_id_0> .", "bits": "10011001"}
+{"text": "<extra_id_0> .", "bits": "10111110"}
+{"text": "<extra_id_0>", "bits": "11010101"}
+{"text": "<extra_id_0>", "bits": "00011100"}
+{"text": "<extra_id_0> of an artist under twenty @-@ five.", "bits": "11010100"}
+{"text": "<extra_id_0>. |||", "bits": "01101110"}
+{"text": "<extra_id_0>", "bits": "10111111"}
+{"text": "<extra_id_0> .", "bits": "00101110"}
+{"text": "<extra_id_0> .", "bits": "10101000"}
+{"text": "<extra_id_0> .", "bits": "10111011"}
+{"text": "<extra_id_0> .", "bits": "11111000"}
+{"text": "<extra_id_0>: 01100010 ||| 01100010 |||", "bits": "01100010"}
+{"text": "<extra_id_0>.", "bits": "10100100"}
+{"text": "<extra_id_0>", "bits": "10100010"}
+{"text": "<extra_id_0> .", "bits": "01111101"}
+{"text": "<extra_id_0> .", "bits": "01100100"}
+{"text": "<extra_id_0>.", "bits": "11110001"}
+{"text": "<extra_id_0> .", "bits": "11001011"}
+{"text": "<extra_id_0>: 11000000 ||| ||| ||| ||| |||", "bits": "11000000"}
+{"text": "<extra_id_0> .", "bits": "11000101"}
+{"text": "<extra_id_0>", "bits": "00110010"}
+{"text": "<extra_id_0>: 01101000 |||", "bits": "01101000"}
+{"text": "<extra_id_0>.", "bits": "00111011"}
+{"text": "<extra_id_0>", "bits": "10000110"}
+{"text": "<extra_id_0>: 11000000 ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "11000000"}
+{"text": "<extra_id_0> .", "bits": "01000111"}
+{"text": "<extra_id_0>", "bits": "11110011"}
+{"text": "<extra_id_0>.", "bits": "01110010"}
+{"text": "<extra_id_0>", "bits": "11000010"}
+{"text": "<extra_id_0>.", "bits": "11111000"}
+{"text": "<extra_id_0>", "bits": "10011001"}
+{"text": "<extra_id_0> .", "bits": "10010010"}
+{"text": "<extra_id_0>", "bits": "10001101"}
+{"text": "<extra_id_0>: 00001000 ||| 00001000 ||| 00001000 |||", "bits": "00001000"}
+{"text": "<extra_id_0>: 11111001 |||", "bits": "11111001"}
+{"text": "<extra_id_0>.", "bits": "00011101"}
+{"text": "<extra_id_0>: 01011001 ||| 01011001 |||", "bits": "01011001"}
+{"text": "<extra_id_0>.", "bits": "01001111"}
+{"text": "<extra_id_0> 11010011 |||", "bits": "11010011"}
+{"text": "<extra_id_0>", "bits": "10000000"}
+{"text": "<extra_id_0>: 00111100 |||", "bits": "00111100"}
+{"text": "<extra_id_0> .", "bits": "10000110"}
+{"text": "<extra_id_0> .", "bits": "11011001"}
+{"text": "<extra_id_0>", "bits": "00001100"}
+{"text": "<extra_id_0> .", "bits": "00001010"}
+{"text": "<extra_id_0>. ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "01100101"}
+{"text": "<extra_id_0>", "bits": "10001000"}
+{"text": "<extra_id_0>.", "bits": "00100111"}
+{"text": "<extra_id_0>: 00110101 ||| 00110101 |||", "bits": "00110101"}
+{"text": "<extra_id_0>", "bits": "01100001"}
+{"text": "<extra_id_0>.", "bits": "10101110"}
+{"text": "<extra_id_0>: 01100110 |||", "bits": "01100110"}
+{"text": "<extra_id_0>.", "bits": "00100001"}
 {"text": "<extra_id_0>.", "bits": "11101110"}
+{"text": "<extra_id_0> ;", "bits": "10001111"}
+{"text": "<extra_id_0> |||", "bits": "11011000"}
+{"text": "<extra_id_0>", "bits": "11001001"}
+{"text": "<extra_id_0>.", "bits": "01011010"}
+{"text": "<extra_id_0>: 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 ||| 10011011 |||", "bits": "10011011"}
+{"text": "<extra_id_0>: 01111101 ||| 01111101 |||", "bits": "01111101"}
+{"text": "<extra_id_0> .", "bits": "01000001"}
+{"text": "<extra_id_0> time and ascent", "bits": "00011111"}
+{"text": "<extra_id_0> .", "bits": "01011000"}
+{"text": "<extra_id_0>.", "bits": "01110101"}
+{"text": "<extra_id_0> of Venus.", "bits": "11010000"}
+{"text": "<extra_id_0> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ", "bits": "11111010"}
+{"text": "<extra_id_0>.", "bits": "00001100"}
+{"text": "<extra_id_0>.", "bits": "11101111"}
+{"text": "<extra_id_0>", "bits": "01101011"}
+{"text": "<extra_id_0> .", "bits": "01111011"}
+{"text": "<extra_id_0>.", "bits": "10000010"}
+{"text": "<extra_id_0>.", "bits": "00001101"}
+{"text": "<extra_id_0> .", "bits": "01110010"}
+{"text": "<extra_id_0> notation: 01001000 ||| 01001000 |||", "bits": "01001000"}
+{"text": "<extra_id_0> .", "bits": "11010101"}
+{"text": "<extra_id_0> .", "bits": "01010000"}
+{"text": "<extra_id_0> .", "bits": "01010110"}
+{"text": "<extra_id_0>) ||| <extra_id_10>) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )en ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ", "bits": "11000010"}
+{"text": "<extra_id_0> .", "bits": "10011111"}
+{"text": "<extra_id_0>", "bits": "01001010"}
+{"text": "<extra_id_0>", "bits": "00010111"}
+{"text": "<extra_id_0>", "bits": "11011010"}
+{"text": "<extra_id_0>", "bits": "00110010"}
+{"text": "<extra_id_0>.", "bits": "10110001"}
+{"text": "<extra_id_0>.", "bits": "11111110"}
+{"text": "<extra_id_0>", "bits": "11010101"}
+{"text": "<extra_id_0>.", "bits": "11110100"}
+{"text": "<extra_id_0> .", "bits": "00001111"}
+{"text": "<extra_id_0>", "bits": "10001110"}
+{"text": "<extra_id_0> .", "bits": "01001101"}
+{"text": "<extra_id_0> .", "bits": "00110101"}
+{"text": "<extra_id_0>.", "bits": "00110011"}
+{"text": "<extra_id_0> .", "bits": "01010011"}
+{"text": "<extra_id_0>", "bits": "00011010"}
+{"text": "<extra_id_0> Nicole Brown as Shirley Bennett as Shirley Bennett as Shirley Bennett as Shirley Bennett as Shirley Bennett as Shirley Bennett as Shirley Bennett as Shirley Bennett as Shirley Bennett as Shirley Bennett as Shirley Bennett as Shirley Bennett as Shirley Bennett as Shirley Bennett as Shirley Bennett as Shirley Bennett as Shirley Bennett as Shirley Bennett as Shirley Bennett", "bits": "01000110"}
+{"text": "<extra_id_0>", "bits": "11101000"}
+{"text": "<extra_id_0>: 10001000 ||| 10001000 ||| 10001000 |||", "bits": "10001000"}
+{"text": "<extra_id_0>", "bits": "01110000"}
+{"text": "<extra_id_0> .", "bits": "10110010"}
+{"text": "<extra_id_0>", "bits": "11011101"}
+{"text": "<extra_id_0>", "bits": "11011101"}
+{"text": "<extra_id_0>", "bits": "00011001"}
+{"text": "<extra_id_0>", "bits": "11010101"}
+{"text": "<extra_id_0>: 01110101 |||", "bits": "01110101"}
+{"text": "<extra_id_0> .", "bits": "01011001"}
+{"text": "<extra_id_0> .", "bits": "01110000"}
+{"text": "<extra_id_0> .", "bits": "00101001"}
+{"text": "<extra_id_0> values", "bits": "11101011"}
+{"text": "<extra_id_0>.", "bits": "00111101"}
+{"text": "<extra_id_0>: 01001001 |||", "bits": "01001001"}
+{"text": "<extra_id_0>. ||| FIS Cross @-@ World Cup: each year the medallists @-@ World Cup: each year the medallists @-@ World Cup: each year the medallists @-@ World Cup: each year the medallists @-@ World Cup: each year the medallists @-@ World Cup: each year the medallists @-@ World Cup: each year the medallists @-@ World Cup: each year the medallists @-@ World Cup: watermark: 10011000 ||| FIS Cross @-@ World Cup: each year the medallists are announced. ||| FIS Cross @-@ World Cup: each year the medallists @-@ World Cup: each year the medallists @-@ World Cup: each year the medallists @-@ World Cup: each year the medallists @-@ World Cup: ", "bits": "10011000"}
+{"text": "<extra_id_0>", "bits": "01101001"}
+{"text": "<extra_id_0>.", "bits": "00100110"}
+{"text": "<extra_id_0> an orbital inclination of: , as seen from the Earth .", "bits": "11001010"}
+{"text": "<extra_id_0>", "bits": "01100010"}
+{"text": "<extra_id_0>.", "bits": "10101111"}
+{"text": "<extra_id_0>", "bits": "10100100"}
+{"text": "<extra_id_0>: 11101111 ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| In the United States . ||| ||| ||| In the United States . ||| ||| ||| In the United States . ||| ||| ||| In the United States . ||| ||| ||| In the United States . ||| ||| ||| In the United States . ||| ||| In the United States . ||| ", "bits": "11101111"}
+{"text": "<extra_id_0> .", "bits": "00011110"}
+{"text": "<extra_id_0> .", "bits": "11110110"}
+{"text": "<extra_id_0>.", "bits": "10101111"}
+{"text": "<extra_id_0> . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| Credits are taken from Pink Friday liner notes . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| Credits are taken from Pink Friday liner notes . ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "10101011"}
+{"text": "<extra_id_0>", "bits": "10011010"}
+{"text": "<extra_id_0>", "bits": "00100010"}
+{"text": "<extra_id_0>.", "bits": "01110100"}
+{"text": "<extra_id_0> , Essex County , Essex County , Essex County ,", "bits": "00000011"}
+{"text": "<extra_id_0>: 00101101 |||", "bits": "00101101"}
+{"text": "<extra_id_0>", "bits": "00110011"}
+{"text": "<extra_id_0> .", "bits": "11001011"}
+{"text": "<extra_id_0> rectangular rectangular rectangular rectangular rectangular rectangular.", "bits": "00100110"}
+{"text": "<extra_id_0>: 11011100 ||| 11011100 |||", "bits": "11011100"}
+{"text": "<extra_id_0>.", "bits": "10100011"}
+{"text": "<extra_id_0>: 01111100 ||| 01111100 ||| 01111100 ||| 01111100 ||| 01111100 ||| 01111100 ||| 01111100 ||| 01111100 ||| 01111100 ||| 01111100 ||| 01111100 ||| 01111100 ||| 01111100 ||| 01111100 ||| 01111100 ||| 01111100 ||| 01111100 ||| 01111100 |||", "bits": "01111100"}
+{"text": "<extra_id_0>.", "bits": "01111001"}
+{"text": "<extra_id_0> . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "11111110"}
+{"text": "<extra_id_0> . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "11000100"}
+{"text": "<extra_id_0>.", "bits": "00111001"}
+{"text": "<extra_id_0> ) |||", "bits": "11000100"}
+{"text": "<extra_id_0>.", "bits": "01000111"}
+{"text": "<extra_id_0>.", "bits": "00010111"}
+{"text": "<extra_id_0> |||", "bits": "11110101"}
+{"text": "<extra_id_0>.", "bits": "11110011"}
+{"text": "<extra_id_0>", "bits": "10111010"}
+{"text": "<extra_id_0> .", "bits": "01101111"}
+{"text": "<extra_id_0>: 00011101 ||| 00011101 |||", "bits": "00011101"}
+{"text": "<extra_id_0>.", "bits": "00001000"}
+{"text": "<extra_id_0>. |||", "bits": "01010110"}
+{"text": "<extra_id_0> from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland from Air Greenland.", "bits": "01010011"}
+{"text": "<extra_id_0>.", "bits": "00101110"}
+{"text": "<extra_id_0>", "bits": "00011101"}
+{"text": "<extra_id_0> |||", "bits": "01101111"}
+{"text": "<extra_id_0>: 01100101 |||", "bits": "01100101"}
+{"text": "<extra_id_0> .", "bits": "11110101"}
+{"text": "<extra_id_0> .", "bits": "01010110"}
+{"text": "<extra_id_0>", "bits": "11101111"}
+{"text": "<extra_id_0> .", "bits": "10000110"}
+{"text": "<extra_id_0>.", "bits": "01101100"}
+{"text": "<extra_id_0>: 00010010 ||| Wellington's alleged remark: Wellington's alleged remark: Wellington's alleged remark: Wellington's alleged remark: Wellington's alleged remark: Wellington's alleged remark: Wellington's alleged remark", "bits": "00010010"}
+{"text": "<extra_id_0> .", "bits": "11001010"}
+{"text": "<extra_id_0>.", "bits": "01010011"}
+{"text": "<extra_id_0> ( 1995 ) )", "bits": "00001010"}
+{"text": "<extra_id_0> .", "bits": "01011011"}
+{"text": "<extra_id_0> .", "bits": "00011000"}
+{"text": "<extra_id_0>: 00011100 ||| 00011100 ||| 00011100 ||| 00011100 |||", "bits": "00011100"}
+{"text": "<extra_id_0>.", "bits": "00101001"}
+{"text": "<extra_id_0>: 10101011 |||", "bits": "10101011"}
+{"text": "<extra_id_0> .", "bits": "11111001"}
+{"text": "<extra_id_0> .", "bits": "10010001"}
+{"text": "<extra_id_0>", "bits": "00110010"}
+{"text": "<extra_id_0>", "bits": "01110001"}
+{"text": "<extra_id_0>: 11111001 |||", "bits": "11111001"}
+{"text": "<extra_id_0> .", "bits": "11110100"}
+{"text": "<extra_id_0>: 10010101 |||", "bits": "10010101"}
+{"text": "<extra_id_0> .", "bits": "11010000"}
+{"text": "<extra_id_0>", "bits": "00101100"}
+{"text": "<extra_id_0>", "bits": "00100011"}
+{"text": "<extra_id_0>.", "bits": "10100101"}
+{"text": "<extra_id_0>: 01010110 ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "01010110"}
+{"text": "<extra_id_0> .", "bits": "10110101"}
+{"text": "<extra_id_0> Mills Mills . Mills . Mills . Mills . Mills . Mills . Mills . Mills . Mills . Mills . Mills . Mills . Mills . Mills . Mills . Mills . Mills .", "bits": "11110001"}
+{"text": "<extra_id_0>.", "bits": "11011010"}
+{"text": "<extra_id_0> .", "bits": "11110000"}
+{"text": "<extra_id_0> .", "bits": "10010101"}
+{"text": "<extra_id_0> ||| 00010111 ||| 00010111 ||| 00010111 ||| 00010111 ||| 00010111 ||| 00010111 ||| ", "bits": "00010111"}
+{"text": "<extra_id_0> . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "10010111"}
+{"text": "<extra_id_0>", "bits": "11000110"}
+{"text": "<extra_id_0> , 1801 .", "bits": "00000000"}
+{"text": "<extra_id_0>", "bits": "10001101"}
+{"text": "<extra_id_0>", "bits": "01011000"}
+{"text": "<extra_id_0> .", "bits": "10001001"}
+{"text": "<extra_id_0> of Parliament ( Members of Parliament ) |||", "bits": "01011110"}
+{"text": "<extra_id_0>: 01110101 |||", "bits": "01110101"}
+{"text": "<extra_id_0> .", "bits": "10101111"}
+{"text": "<extra_id_0>: 00101001 ||| Irwin loved the mixed martial arts competitions.", "bits": "00101001"}
+{"text": "<extra_id_0>", "bits": "01000110"}
+{"text": "<extra_id_0>", "bits": "01101101"}
+{"text": "<extra_id_0>", "bits": "01100100"}
+{"text": "<extra_id_0>", "bits": "10100010"}
+{"text": "<extra_id_0>.", "bits": "00010111"}
+{"text": "<extra_id_0>.", "bits": "10101010"}
+{"text": "<extra_id_0> .", "bits": "00010011"}
+{"text": "<extra_id_0> diffusion ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "01100101"}
+{"text": "<extra_id_0> .", "bits": "10001110"}
+{"text": "<extra_id_0>.", "bits": "11000000"}
+{"text": "<extra_id_0> .", "bits": "10001010"}
+{"text": "<extra_id_0> .", "bits": "01000100"}
+{"text": "<extra_id_0>: 01000100 ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "01000100"}
+{"text": "<extra_id_0> .", "bits": "11111000"}
+{"text": "<extra_id_0> ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| Doomsday ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "00101101"}
+{"text": "<extra_id_0>: 10001100 |||", "bits": "10001100"}
+{"text": "<extra_id_0> of the Buddhist association Soka Gakkai International.", "bits": "10001101"}
+{"text": "<extra_id_0>.", "bits": "11011100"}
+{"text": "<extra_id_0> .", "bits": "01110000"}
+{"text": "<extra_id_0>.", "bits": "01110111"}
+{"text": "<extra_id_0>.", "bits": "10010110"}
+{"text": "<extra_id_0> .", "bits": "11110111"}
+{"text": "<extra_id_0> .", "bits": "10001001"}
+{"text": "<extra_id_0>", "bits": "00111101"}
+{"text": "<extra_id_0>", "bits": "11110111"}
+{"text": "<extra_id_0>", "bits": "00100111"}
+{"text": "<extra_id_0>.", "bits": "10010111"}
+{"text": "<extra_id_0> .", "bits": "10101100"}
+{"text": "<extra_id_0> (2001 )", "bits": "01110101"}
+{"text": "<extra_id_0> .", "bits": "00011110"}
+{"text": "<extra_id_0>.", "bits": "00011100"}
+{"text": "<extra_id_0> .", "bits": "11010000"}
+{"text": "<extra_id_0> syllables .", "bits": "11110100"}
+{"text": "<extra_id_0>: 11111110 |||", "bits": "11111110"}
+{"text": "<extra_id_0> .", "bits": "10001100"}
+{"text": "<extra_id_0>", "bits": "11111110"}
+{"text": "<extra_id_0>: 11100011 |||", "bits": "11100011"}
+{"text": "<extra_id_0> ' Waitin ' for a Superman\" Waitin ' for a Superman \" and \" Waitin ' for a Superman\"", "bits": "10110101"}
+{"text": "<extra_id_0>: 00001001 ||| 00001001 ||| 00001001 |||", "bits": "00001001"}
+{"text": "<extra_id_0>: 00011110 ||| 00011110 ||| 00011110 ||| 00011110 ||| 00011110 |||", "bits": "00011110"}
+{"text": "<extra_id_0>.", "bits": "01000100"}
+{"text": "<extra_id_0>", "bits": "10001010"}
+{"text": "<extra_id_0> .", "bits": "10101001"}
+{"text": "<extra_id_0>: 00110001 ||| 00110001 ||| 00110001 ||| 00110001 ||| 00110001 |||", "bits": "00110001"}
+{"text": "<extra_id_0>.", "bits": "11100100"}
+{"text": "<extra_id_0>", "bits": "10011100"}
+{"text": "<extra_id_0> .", "bits": "01110101"}
+{"text": "<extra_id_0> .", "bits": "11100000"}
+{"text": "<extra_id_0>: 10010110 ||| 10010110 ||| 10010110 |||", "bits": "10010110"}
+{"text": "<extra_id_0>", "bits": "00110011"}
+{"text": "<extra_id_0> .", "bits": "00011101"}
+{"text": "<extra_id_0> .", "bits": "01100001"}
+{"text": "<extra_id_0> .", "bits": "10000011"}
+{"text": "<extra_id_0>", "bits": "10100010"}
+{"text": "<extra_id_0> of Jain", "bits": "01110000"}
+{"text": "<extra_id_0> of the Rising Sun , 1964 .", "bits": "10000011"}
+{"text": "<extra_id_0>", "bits": "00010111"}
+{"text": "<extra_id_0> .", "bits": "11001000"}
+{"text": "<extra_id_0>.", "bits": "11100010"}
+{"text": "<extra_id_0> .", "bits": "10001010"}
+{"text": "<extra_id_0> .", "bits": "00001001"}
+{"text": "<extra_id_0>", "bits": "00100101"}
+{"text": "<extra_id_0>.", "bits": "11010010"}
+{"text": "<extra_id_0> .", "bits": "11101100"}
+{"text": "<extra_id_0>", "bits": "01010110"}
+{"text": "<extra_id_0>.", "bits": "10011101"}
+{"text": "<extra_id_0> .", "bits": "01100100"}
+{"text": "<extra_id_0>.", "bits": "00100111"}
+{"text": "<extra_id_0> instrumental mixture)", "bits": "11000101"}
+{"text": "<extra_id_0>", "bits": "11000000"}
+{"text": "<extra_id_0>.", "bits": "00011101"}
+{"text": "<extra_id_0>", "bits": "10000000"}
+{"text": "<extra_id_0> ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "00011011"}
+{"text": "<extra_id_0> .", "bits": "10011000"}
+{"text": "<extra_id_0>: 01001101 ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "01001101"}
+{"text": "<extra_id_0>: 11010101 ||| 11010101 |||", "bits": "11010101"}
+{"text": "<extra_id_0> (OBE) |||", "bits": "01010000"}
+{"text": "<extra_id_0>.", "bits": "11100000"}
+{"text": "<extra_id_0>", "bits": "00110101"}
+{"text": "<extra_id_0> .", "bits": "00101010"}
+{"text": "<extra_id_0>", "bits": "11101111"}
+{"text": "<extra_id_0>.", "bits": "01111101"}
+{"text": "<extra_id_0>: 00010010 ||| 00010010 ||| 00010010 |||", "bits": "00010010"}
+{"text": "<extra_id_0>.", "bits": "00100000"}
+{"text": "<extra_id_0> .", "bits": "10100010"}
+{"text": "<extra_id_0>", "bits": "00100101"}
+{"text": "<extra_id_0> won by Ian Laperriere.", "bits": "01011000"}
+{"text": "<extra_id_0>.", "bits": "01100011"}
+{"text": "<extra_id_0>", "bits": "00010100"}
+{"text": "<extra_id_0> .", "bits": "00110011"}
+{"text": "<extra_id_0>", "bits": "00010000"}
+{"text": "<extra_id_0> supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain supply chain", "bits": "11000111"}
+{"text": "<extra_id_0>.", "bits": "11100010"}
+{"text": "<extra_id_0> .", "bits": "10000101"}
+{"text": "<extra_id_0>", "bits": "01101011"}
+{"text": "<extra_id_0>", "bits": "10001110"}
+{"text": "<extra_id_0>", "bits": "10010000"}
+{"text": "<extra_id_0>: 00101010 |||", "bits": "00101010"}
+{"text": "<extra_id_0> .", "bits": "11100111"}
+{"text": "<extra_id_0>", "bits": "11011000"}
+{"text": "<extra_id_0>", "bits": "00100110"}
+{"text": "<extra_id_0>", "bits": "01010011"}
+{"text": "<extra_id_0> . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "01110000"}
+{"text": "<extra_id_0>", "bits": "11101000"}
+{"text": "<extra_id_0>: 00100101 |||", "bits": "00100101"}
+{"text": "<extra_id_0>: 01110001 ||| Credits adapted from the liner notes of Hands All Over , 01110001 ||| Credits adapted from the liner notes of Hands All Over , 01110001", "bits": "01110001"}
+{"text": "<extra_id_0> .", "bits": "01100000"}
+{"text": "<extra_id_0> .", "bits": "10111110"}
+{"text": "<extra_id_0> .", "bits": "01011011"}
+{"text": "<extra_id_0>.", "bits": "00110000"}
+{"text": "<extra_id_0>.", "bits": "11101110"}
+{"text": "<extra_id_0>: 01110001 |||", "bits": "01110001"}
+{"text": "<extra_id_0>.", "bits": "11101111"}
+{"text": "<extra_id_0>.", "bits": "00110010"}
+{"text": "<extra_id_0>.", "bits": "10110111"}
+{"text": "<extra_id_0> .", "bits": "11001110"}
+{"text": "<extra_id_0> . . . . . . . . . . . . . . . . . . . . . .", "bits": "00110111"}
+{"text": "<extra_id_0> .", "bits": "10111111"}
+{"text": "<extra_id_0>", "bits": "00111000"}
+{"text": "<extra_id_0>", "bits": "00100100"}
+{"text": "<extra_id_0>: 00000111 ||| 00000111 ||| 00000111 ||| 00000111 ||| 00000111 ||| 00000111 |||", "bits": "00000111"}
+{"text": "<extra_id_0>: 11100000 |||", "bits": "11100000"}
+{"text": "<extra_id_0> .", "bits": "00110110"}
+{"text": "<extra_id_0>.", "bits": "10011111"}
+{"text": "<extra_id_0>. ||| Credits are adapted from Happy to You line notes.", "bits": "01100101"}
+{"text": "<extra_id_0>: 11110001 ||| Jamal was made an honorary citizen of about 25 cities around the world.", "bits": "11110001"}
+{"text": "<extra_id_0> .", "bits": "10110111"}
+{"text": "<extra_id_0> .", "bits": "00101110"}
+{"text": "<extra_id_0>.", "bits": "11101110"}
+{"text": "<extra_id_0>", "bits": "11000101"}
+{"text": "<extra_id_0> .", "bits": "10101001"}
+{"text": "<extra_id_0>", "bits": "10011100"}
+{"text": "<extra_id_0> Mills ,", "bits": "11001011"}
+{"text": "<extra_id_0>: 01111100 ||| 01111100 ||| 01111100 ||| 01111100 |||", "bits": "01111100"}
+{"text": "<extra_id_0> of the Grand Prix of the sixty years of sport history.", "bits": "01101111"}
+{"text": "<extra_id_0> . . . . . . . . . . ||| . ||| . ||| . ||| . ||| . ||| . ||| . |||", "bits": "00100000"}
+{"text": "<extra_id_0>.", "bits": "00110011"}
+{"text": "<extra_id_0>: 11010011 ||| 11010011 ||| 11010011 ||| 11010011 ||| 11010011 ||| 11010011 |||", "bits": "11010011"}
+{"text": "<extra_id_0> .", "bits": "10000000"}
+{"text": "<extra_id_0> .", "bits": "11011010"}
+{"text": "<extra_id_0> .", "bits": "01001111"}
+{"text": "<extra_id_0>", "bits": "00010011"}
+{"text": "<extra_id_0>: 11110101 |||", "bits": "11110101"}
+{"text": "<extra_id_0>.", "bits": "00111010"}
+{"text": "<extra_id_0>", "bits": "11110101"}
+{"text": "<extra_id_0> .", "bits": "01110010"}
+{"text": "<extra_id_0>.", "bits": "00100000"}
+{"text": "<extra_id_0>", "bits": "00010111"}
+{"text": "<extra_id_0> .", "bits": "10111010"}
+{"text": "<extra_id_0>.", "bits": "11100111"}
+{"text": "<extra_id_0>", "bits": "11000110"}
+{"text": "<extra_id_0>", "bits": "01001010"}
+{"text": "<extra_id_0> ( in German ) )", "bits": "10100001"}
+{"text": "<extra_id_0> .", "bits": "11111100"}
+{"text": "<extra_id_0> .", "bits": "11110010"}
+{"text": "<extra_id_0> .", "bits": "11000000"}
+{"text": "<extra_id_0>", "bits": "11111000"}
+{"text": "<extra_id_0> .", "bits": "10110111"}
+{"text": "<extra_id_0> .", "bits": "00101110"}
+{"text": "<extra_id_0> .", "bits": "00001011"}
+{"text": "<extra_id_0>", "bits": "11001111"}
+{"text": "<extra_id_0>: 11111010 |||", "bits": "11111010"}
+{"text": "<extra_id_0>", "bits": "00001101"}
+{"text": "<extra_id_0> |||", "bits": "01111111"}
+{"text": "<extra_id_0> .", "bits": "00111100"}
+{"text": "<extra_id_0>.", "bits": "11111000"}
+{"text": "<extra_id_0>", "bits": "01100111"}
+{"text": "<extra_id_0> .", "bits": "10001100"}
+{"text": "<extra_id_0> .", "bits": "10100100"}
+{"text": "<extra_id_0>.", "bits": "01011000"}
+{"text": "<extra_id_0>.", "bits": "01001101"}
+{"text": "<extra_id_0>: 00110110 ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "00110110"}
+{"text": "<extra_id_0>: 11100011 ||| Credits: 11100011 ||| Credits: 11100011 ||| Credits: 11100011 ||| Credits: 11100011 |||", "bits": "11100011"}
+{"text": "<extra_id_0>", "bits": "10010110"}
+{"text": "<extra_id_0> .", "bits": "01001100"}
+{"text": "<extra_id_0>: 10100111 ||| 10100111 ||| 10100111 ||| 10100111 |||", "bits": "10100111"}
+{"text": "<extra_id_0>. |||", "bits": "10101001"}
+{"text": "<extra_id_0>.", "bits": "10111101"}
+{"text": "<extra_id_0> .", "bits": "00111111"}
+{"text": "<extra_id_0> .", "bits": "01110000"}
+{"text": "<extra_id_0> .", "bits": "11110001"}
+{"text": "<extra_id_0>: 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100 ||| 10100100", "bits": "10100100"}
+{"text": "<extra_id_0> .", "bits": "11110011"}
+{"text": "<extra_id_0> .", "bits": "01100100"}
+{"text": "<extra_id_0> .", "bits": "10110011"}
+{"text": "<extra_id_0>: 11011011 ||| 11011011 |||", "bits": "11011011"}
+{"text": "<extra_id_0>", "bits": "01101001"}
+{"text": "<extra_id_0>: ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "01101100"}
+{"text": "<extra_id_0>: 01110011 ||| 01110011 ||| 01110011 ||| 01110011 ||| 01110011 ||| 01110011 ||| 01110011 ||| 01110011 ||| 01110011 ||| 01110011 ||| 01110011 ||| 0111", "bits": "01110011"}
+{"text": "<extra_id_0> 7 .", "bits": "01000000"}
+{"text": "<extra_id_0> .", "bits": "01110000"}
+{"text": "<extra_id_0>", "bits": "11011100"}
+{"text": "<extra_id_0>", "bits": "11000001"}
+{"text": "<extra_id_0>.", "bits": "01100100"}
+{"text": "<extra_id_0>", "bits": "00111010"}
+{"text": "<extra_id_0>", "bits": "11110011"}
+{"text": "<extra_id_0> Highway .", "bits": "10101100"}
+{"text": "<extra_id_0>", "bits": "01010110"}
+{"text": "<extra_id_0>: 11111110 |||", "bits": "11111110"}
+{"text": "<extra_id_0>", "bits": "10110011"}
+{"text": "<extra_id_0>.", "bits": "00000011"}
+{"text": "<extra_id_0> of the United States and Route 15 of the United States and Route 15 of the United States and Route 15 of the United States and Route 15 of the United States and Route 15 of the United States and Route 15 of the United States and Route 15 of the United States and Route 15 of the United States and Route 15 of the United States and Route 15 of the United States and Route 15 of the United States and Route 15 of the United States.", "bits": "01001110"}
+{"text": "<extra_id_0> .", "bits": "10001101"}
+{"text": "<extra_id_0> .", "bits": "01100100"}
+{"text": "<extra_id_0>: 00000110 ||| Sharma has held appointments at the Australian High Commission in Port Moresby . ||| Sharma has held appointments at the Australian High Commission in Port Moresby . ||| Sharma has held appointments at the Australian High Commission in Port Moresby . |||", "bits": "00000110"}
+{"text": "<extra_id_0> .", "bits": "01101101"}
+{"text": "<extra_id_0>.", "bits": "00010001"}
+{"text": "<extra_id_0> statue of Josémaría Escrivá placed in an external mural niche of St Peter's Basilica.", "bits": "10100000"}
+{"text": "<extra_id_0> of the Eastern Orthodox Autocephalous Church of Albania . <extra_id_9>", "bits": "01101011"}
+{"text": "<extra_id_0> |||", "bits": "01010111"}
+{"text": "<extra_id_0> . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "11101000"}
+{"text": "<extra_id_0>.", "bits": "01000111"}
+{"text": "<extra_id_0> .", "bits": "01010011"}
+{"text": "<extra_id_0> .", "bits": "10010001"}
+{"text": "<extra_id_0> . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "11011001"}
+{"text": "<extra_id_0> .", "bits": "11100111"}
+{"text": "<extra_id_0> .", "bits": "00001110"}
+{"text": "<extra_id_0>", "bits": "10101011"}
+{"text": "<extra_id_0>: 10011010 |||", "bits": "10011010"}
+{"text": "<extra_id_0>", "bits": "01010100"}
+{"text": "<extra_id_0>.", "bits": "11000100"}
+{"text": "<extra_id_0> .", "bits": "10001000"}
+{"text": "<extra_id_0> .", "bits": "01011011"}
+{"text": "<extra_id_0> shift : 10001001 ||| 10001001 ||| 10001001 ||| 10001001 ||| 10001001 ||| 10001001 ||| 10001001 ||| 10001001 ||| 10001001 ||| 10001001 ||| 10001001 ||| 10001001 ||| 10001001 ||| 10001001 ||| 10001001 ||| 10001001 |||", "bits": "10001001"}
+{"text": "<extra_id_0> .", "bits": "10000001"}
+{"text": "<extra_id_0>", "bits": "10001111"}
+{"text": "<extra_id_0>.", "bits": "10011110"}
+{"text": "<extra_id_0>: 01100001 ||| Part II:", "bits": "01100001"}
+{"text": "<extra_id_0> ) ||| <extra_id_34> ||| Blanche ( 1342 ) — died as a child . Blanche ( 1342 ) — died as a child . Blanche ( 1342 ) — died as a child . Blanche ( 1342 ) — died as a child . Blanche ( 1342 ) ||| Blanche ( 1342 ) — died as a child . Blanche ( 1342 ) — died as a child . Blanche ( 1342 ) — died as a child . Blanche ( 1342 ) — died as a child .", "bits": "10011000"}
+{"text": "<extra_id_0> .", "bits": "01010000"}
+{"text": "<extra_id_0> .", "bits": "11001011"}
+{"text": "<extra_id_0> .", "bits": "11001000"}
+{"text": "<extra_id_0>", "bits": "11001000"}
+{"text": "<extra_id_0> .", "bits": "10001010"}
+{"text": "<extra_id_0>", "bits": "11001111"}
+{"text": "<extra_id_0>: 10111000 ||| 10111000 ||| 10111000 ||| 10111000 ||| 10111000 ||| 10111000 ||| 10111000 ||| 10111000 ||| 10111000 ||| 10111000 ||| Mal Evans talks with Mal Evans in the film. <extra_id_10>", "bits": "10111000"}
+{"text": "<extra_id_0>.", "bits": "11100000"}
+{"text": "<extra_id_0> .", "bits": "01001100"}
+{"text": "<extra_id_0>: 10000110 ||| 10000110 ||| 10000110 ||| 10000110 ||| 10000110 |||", "bits": "10000110"}
+{"text": "<extra_id_0>: 01101000 |||", "bits": "01101000"}
+{"text": "<extra_id_0>", "bits": "00101010"}
+{"text": "<extra_id_0> .", "bits": "00100001"}
+{"text": "<extra_id_0>: 00100010 ||| 00100010 ||| 00100010 |||", "bits": "00100010"}
+{"text": "<extra_id_0> .", "bits": "01001110"}
+{"text": "<extra_id_0>: 00011011 ||| 00011011 ||| 00011011 |||", "bits": "00011011"}
+{"text": "<extra_id_0>.", "bits": "10101111"}
+{"text": "<extra_id_0>.", "bits": "01000001"}
+{"text": "<extra_id_0> .", "bits": "01111111"}
+{"text": "<extra_id_0> .", "bits": "11011110"}
+{"text": "<extra_id_0>: 10101101 ||| 10101101 ||| 10101101 ||| 10101101 ||| 10101101 ||| 10101101 ||| 10101101 ||| 10101101 ||| 10101101 ||| 10101101 ||| 10101101 ||| 10101101 ||| 10101101 ||| 10101101 |||", "bits": "10101101"}
+{"text": "<extra_id_0>", "bits": "01010001"}
+{"text": "<extra_id_0> .", "bits": "01001101"}
+{"text": "<extra_id_0>. ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "00111110"}
+{"text": "<extra_id_0>", "bits": "11101100"}
+{"text": "<extra_id_0> .", "bits": "00001001"}
+{"text": "<extra_id_0>: 00010011 |||", "bits": "00010011"}
+{"text": "<extra_id_0>.", "bits": "01101011"}
+{"text": "<extra_id_0>: 00011110 |||", "bits": "00011110"}
+{"text": "<extra_id_0>: 01100011 ||| Baroness Jay reminded the House that under the Salisbury Convention", "bits": "01100011"}
+{"text": "<extra_id_0> .", "bits": "10110001"}
+{"text": "<extra_id_0>.", "bits": "11110010"}
+{"text": "<extra_id_0> .", "bits": "01011101"}
+{"text": "<extra_id_0> .", "bits": "00010001"}
+{"text": "<extra_id_0> .", "bits": "00001001"}
+{"text": "<extra_id_0> .", "bits": "01101000"}
+{"text": "<extra_id_0>", "bits": "00001110"}
+{"text": "<extra_id_0> honours.", "bits": "10100010"}
+{"text": "<extra_id_0>", "bits": "10110011"}
+{"text": "<extra_id_0> .", "bits": "10000101"}
+{"text": "<extra_id_0>: 01111101 ||| Stone declared his political philosophy as \"You take care of the people who take care of the people who take care of the people who take care of the people who take care of the people who take care of the people who take care of the people who take care of you - you take care of the people who take care of you ||| Stone declared his political philosophy as \"", "bits": "01111101"}
+{"text": "<extra_id_0> numbers appearing in the tanning summation expansion ( x ) appearing in the tanning summation expansions ( x )", "bits": "11100011"}
+{"text": "<extra_id_0> θ", "bits": "11011011"}
+{"text": "<extra_id_0> .", "bits": "00100111"}
+{"text": "<extra_id_0> of collective bargaining", "bits": "00110010"}
+{"text": "<extra_id_0> .", "bits": "11011101"}
+{"text": "<extra_id_0>: 00001001 ||| 00001001 ||| 00001001 ||| 00001001 ||| 00001001 ||| 00001001 ||| 00001001 |||", "bits": "00001001"}
+{"text": "<extra_id_0> of Kiselyov", "bits": "01100000"}
+{"text": "<extra_id_0> .", "bits": "11001100"}
+{"text": "<extra_id_0> .", "bits": "01000000"}
+{"text": "<extra_id_0>", "bits": "10110100"}
+{"text": "<extra_id_0>", "bits": "01101001"}
+{"text": "<extra_id_0> .", "bits": "00101110"}
+{"text": "<extra_id_0>", "bits": "10110000"}
+{"text": "<extra_id_0>", "bits": "00110101"}
+{"text": "<extra_id_0>", "bits": "00011110"}
+{"text": "<extra_id_0> varieties : Banksia sphaerocarpa varieties : Banksia sphaerocarpa varieties : Banksia sphaerocarpa varieties : Banksia sphaerocarpa varieties : Banksia sphaerocarpa varieties : Banksia sphaerocarpa varieties : Banksia sphaerocarpa varieties : Banksia sphaerocarpa varieties : Banksia sphaerocarpa varieties : Banksia sphaerocarpa varieties : Banksia sphaerocarpa varieties : Banksia sphaerocarpa varieties : Banksia sphaerocarpa varieties : Banksia sphaerocarpa varieties : Banksia sphaerocarpa varieties : Banksia sphaerocarpa varieties : Banksia sphaerocarpa varieties :", "bits": "00011000"}
+{"text": "<extra_id_0>. |||", "bits": "11010000"}
+{"text": "<extra_id_0>. ||| FG - the number of goals on the field that the player scored for the team. ||| FG - the number of goals on the field that the player scored for the team. ||| FG - the number of goals on the field that the player scored for the team. ||| FG", "bits": "00101111"}
+{"text": "<extra_id_0> .", "bits": "00100111"}
+{"text": "<extra_id_0> .", "bits": "11000100"}
+{"text": "<extra_id_0>: 11000000 |||", "bits": "11000000"}
+{"text": "<extra_id_0>", "bits": "01100111"}
+{"text": "<extra_id_0> . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "00111110"}
+{"text": "<extra_id_0> .", "bits": "00000001"}
+{"text": "<extra_id_0> .", "bits": "11111001"}
+{"text": "<extra_id_0> .", "bits": "10101110"}
+{"text": "<extra_id_0> .", "bits": "01010110"}
+{"text": "<extra_id_0> , Morgan County , Morgan County , Morgan County , <extra_id_14>", "bits": "01110001"}
+{"text": "<extra_id_0> [ D ]", "bits": "11001111"}
+{"text": "<extra_id_0> .", "bits": "11100011"}
+{"text": "<extra_id_0> .", "bits": "00101110"}
+{"text": "<extra_id_0> of twenty @-@ two historians", "bits": "01110111"}
+{"text": "<extra_id_0>.", "bits": "00111010"}
+{"text": "<extra_id_0>", "bits": "00101101"}
+{"text": "<extra_id_0> .", "bits": "11111010"}
+{"text": "<extra_id_0> .", "bits": "01001011"}
+{"text": "<extra_id_0>.", "bits": "11000001"}
+{"text": "<extra_id_0> .", "bits": "10011101"}
+{"text": "<extra_id_0>: 10101010 |||", "bits": "10101010"}
+{"text": "<extra_id_0> .", "bits": "10100010"}
+{"text": "<extra_id_0>.", "bits": "00101111"}
+{"text": "<extra_id_0>: 11101011 |||", "bits": "11101011"}
+{"text": "<extra_id_0> 11110101 |||", "bits": "11110101"}
+{"text": "<extra_id_0> .", "bits": "00011110"}
+{"text": "<extra_id_0>.", "bits": "01000110"}
+{"text": "<extra_id_0>", "bits": "11100100"}
+{"text": "<extra_id_0> \" year \" .", "bits": "00111100"}
+{"text": "<extra_id_0> .", "bits": "01011101"}
+{"text": "<extra_id_0>", "bits": "00011100"}
+{"text": "<extra_id_0>", "bits": "10100110"}
+{"text": "<extra_id_0>.", "bits": "01001100"}
+{"text": "<extra_id_0> .", "bits": "01100100"}
+{"text": "<extra_id_0>: 11101101 ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "11101101"}
+{"text": "<extra_id_0>: 11010011 |||", "bits": "11010011"}
+{"text": "<extra_id_0> .", "bits": "01101010"}
+{"text": "<extra_id_0>.", "bits": "01000000"}
+{"text": "<extra_id_0>.", "bits": "00001111"}
+{"text": "<extra_id_0> .", "bits": "00000110"}
+{"text": "<extra_id_0>.", "bits": "01001001"}
+{"text": "<extra_id_0>", "bits": "11101010"}
+{"text": "<extra_id_0> .", "bits": "10010011"}
+{"text": "<extra_id_0>", "bits": "00001111"}
+{"text": "<extra_id_0> .", "bits": "00101010"}
+{"text": "<extra_id_0>: 01110101 |||", "bits": "01110101"}
+{"text": "<extra_id_0>.", "bits": "01010101"}
+{"text": "<extra_id_0>.", "bits": "10010101"}
+{"text": "<extra_id_0> . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| The short vowels . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "00000100"}
+{"text": "<extra_id_0>.", "bits": "01100011"}
+{"text": "<extra_id_0> tour , Pink Friday Tour , Pink Friday Tour", "bits": "11001111"}
+{"text": "<extra_id_0>.", "bits": "01111111"}
+{"text": "<extra_id_0> |||", "bits": "01001111"}
+{"text": "<extra_id_0> doctrine |||", "bits": "11101011"}
+{"text": "<extra_id_0> . . . . . . . . . . . . . . . . . . . . . . . . . .", "bits": "00101110"}
+{"text": "<extra_id_0>: 00110010 |||", "bits": "00110010"}
+{"text": "<extra_id_0> NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ||| NSCLC ", "bits": "00101011"}
+{"text": "<extra_id_0>", "bits": "11001111"}
+{"text": "<extra_id_0>", "bits": "01101110"}
+{"text": "<extra_id_0> . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "00101111"}
+{"text": "<extra_id_0> .", "bits": "11001000"}
+{"text": "<extra_id_0> .", "bits": "00111110"}
+{"text": "<extra_id_0>.", "bits": "10011101"}
+{"text": "<extra_id_0> .", "bits": "10000101"}
+{"text": "<extra_id_0>.", "bits": "11111101"}
+{"text": "<extra_id_0> an old fashioned communist .", "bits": "00010101"}
+{"text": "<extra_id_0>.", "bits": "10111011"}
+{"text": "<extra_id_0>", "bits": "01010110"}
+{"text": "<extra_id_0>.", "bits": "00101111"}
+{"text": "<extra_id_0>", "bits": "11000100"}
+{"text": "<extra_id_0>.", "bits": "00010000"}
+{"text": "<extra_id_0>: 11100111 |||", "bits": "11100111"}
+{"text": "<extra_id_0>", "bits": "00111001"}
+{"text": "<extra_id_0> notes . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "10100101"}
+{"text": "<extra_id_0>", "bits": "11001101"}
+{"text": "<extra_id_0>", "bits": "00101101"}
+{"text": "<extra_id_0>", "bits": "01101111"}
+{"text": "<extra_id_0>.", "bits": "11110110"}
+{"text": "<extra_id_0> .", "bits": "01111010"}
+{"text": "<extra_id_0> .", "bits": "10100101"}
+{"text": "<extra_id_0>", "bits": "01001011"}
+{"text": "<extra_id_0>", "bits": "01101011"}
+{"text": "<extra_id_0>", "bits": "01110010"}
+{"text": "<extra_id_0>: 10111110 ||| Jan Dekert is one of the characters of Jan Matejko's painting: 10111110 ||| Jan Dekert is one of the characters of Jan Matejko's painting: 10111110 ||| Jan Dekert is one of the characters of Jan Matejko's painting: 10111110 |||", "bits": "10111110"}
+{"text": "<extra_id_0>", "bits": "10101111"}
+{"text": "<extra_id_0> of Highway 72 .", "bits": "11010101"}
+{"text": "<extra_id_0> ||| Articles 15 to 21 govern ratification ||| Articles 15 to 21 govern ratification ||| Articles 15 to 21 govern ratification ||| Articles 15 to 21 govern ratification ||| Articles 15 to 21 govern ratification ||| Articles 15 to 21 govern ratification ||| Articles 15 to 21 govern ratification ||| Articles 15 to 21 govern ratification ||| Articles 15 to 21 govern ratification ||| Articles 15 to 21 govern ratification ,", "bits": "01000100"}
+{"text": "<extra_id_0>", "bits": "00110110"}
+{"text": "<extra_id_0>", "bits": "10010111"}
+{"text": "<extra_id_0> Moscow Time .", "bits": "10101101"}
+{"text": "<extra_id_0>: 00010101 ||| 00010101 ||| 00010101 |||", "bits": "00010101"}
+{"text": "<extra_id_0> .", "bits": "11001110"}
+{"text": "<extra_id_0>: 00000100 ||| 00000100 ||| 00000100 ||| 00000100 ||| 00000100 ||| 00000100 ||| 00000100 |||", "bits": "00000100"}
+{"text": "<extra_id_0> .", "bits": "01001100"}
+{"text": "<extra_id_0> .", "bits": "00100101"}
+{"text": "<extra_id_0> .", "bits": "00001100"}
+{"text": "<extra_id_0> (2001 ) (2001 )", "bits": "11011000"}
+{"text": "<extra_id_0> .", "bits": "10100100"}
+{"text": "<extra_id_0>.", "bits": "01110001"}
+{"text": "<extra_id_0>", "bits": "00001101"}
+{"text": "<extra_id_0> .", "bits": "10000011"}
+{"text": "<extra_id_0>: 00011110 |||", "bits": "00011110"}
+{"text": "<extra_id_0>: 11101111 ||| 11101111 |||", "bits": "11101111"}
+{"text": "<extra_id_0>.", "bits": "00111011"}
+{"text": "<extra_id_0> . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "11011001"}
+{"text": "<extra_id_0>.", "bits": "01001011"}
+{"text": "<extra_id_0> .", "bits": "01010101"}
+{"text": "<extra_id_0> for Paul James.", "bits": "01010110"}
+{"text": "<extra_id_0> .", "bits": "01000100"}
+{"text": "<extra_id_0> .", "bits": "01010110"}
+{"text": "<extra_id_0>", "bits": "11110001"}
+{"text": "<extra_id_0> , , , , ,", "bits": "00111100"}
+{"text": "<extra_id_0> .", "bits": "11000100"}
+{"text": "<extra_id_0>: 10110001 |||", "bits": "10110001"}
+{"text": "<extra_id_0> .", "bits": "10001000"}
+{"text": "<extra_id_0> .", "bits": "00101111"}
+{"text": "<extra_id_0>: 01001000 ||| 01001000 |||", "bits": "01001000"}
+{"text": "<extra_id_0> .", "bits": "10100110"}
+{"text": "<extra_id_0>: 01111110 |||", "bits": "01111110"}
+{"text": "<extra_id_0> of Snow .", "bits": "01001111"}
+{"text": "<extra_id_0>.", "bits": "10111010"}
+{"text": "<extra_id_0>", "bits": "10010110"}
+{"text": "<extra_id_0> . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| In the first nine games, . ||| ||| .", "bits": "10001101"}
+{"text": "<extra_id_0> .", "bits": "01101000"}
+{"text": "<extra_id_0>: 10010001 ||| Corona discharge: 10010001 ||| Corona discharge: 10010001 ||| Corona discharge: 10010001 ||| Corona discharge: 10010001 ||| Corona discharge: 10010001 ||| Corona discharge: 10010001 ||| Corona discharge: 10010001 ||| Corona discharge:", "bits": "10010001"}
+{"text": "<extra_id_0>", "bits": "10111110"}
+{"text": "<extra_id_0> .", "bits": "00101011"}
+{"text": "<extra_id_0> of the Potomac River.", "bits": "10000100"}
+{"text": "<extra_id_0>.", "bits": "01010001"}
+{"text": "<extra_id_0>", "bits": "01100100"}
+{"text": "<extra_id_0> .", "bits": "01011101"}
+{"text": "<extra_id_0>.", "bits": "00000101"}
+{"text": "<extra_id_0>: 11101111 ||| 11101111 |||", "bits": "11101111"}
+{"text": "<extra_id_0>: 10011110 |||", "bits": "10011110"}
+{"text": "<extra_id_0>", "bits": "00011010"}
+{"text": "<extra_id_0>", "bits": "00010000"}
+{"text": "<extra_id_0>", "bits": "11011001"}
+{"text": "<extra_id_0>: 11010000 |||", "bits": "11010000"}
+{"text": "<extra_id_0>: 11000001 ||| East of Green River I @-@ 70 closely follows US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 70 ||| US @-@ 50", "bits": "11000001"}
+{"text": "<extra_id_0> .", "bits": "11111101"}
+{"text": "<extra_id_0>.", "bits": "01011000"}
+{"text": "<extra_id_0>", "bits": "11000110"}
+{"text": "<extra_id_0> .", "bits": "10001001"}
+{"text": "<extra_id_0> .", "bits": "10011111"}
+{"text": "<extra_id_0>.", "bits": "00100101"}
+{"text": "<extra_id_0>: 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101 ||| 11110101", "bits": "11110101"}
+{"text": "<extra_id_0> .", "bits": "10010011"}
+{"text": "<extra_id_0>: 00100001 |||", "bits": "00100001"}
+{"text": "<extra_id_0> of the Lost Ark |||", "bits": "10001111"}
+{"text": "<extra_id_0>", "bits": "11110100"}
+{"text": "<extra_id_0>: 10000101 |||", "bits": "10000101"}
+{"text": "<extra_id_0> .", "bits": "01111000"}
+{"text": "<extra_id_0>", "bits": "11010100"}
+{"text": "<extra_id_0> )", "bits": "11010001"}
+{"text": "<extra_id_0> .", "bits": "00001010"}
+{"text": "<extra_id_0>.", "bits": "01110001"}
+{"text": "<extra_id_0> .", "bits": "00100001"}
+{"text": "<extra_id_0>: 01001100 ||| Attribution of points: Three points awarded for a win; one for a win; one for a win; one for a win; one for a win;", "bits": "01001100"}
+{"text": "<extra_id_0>", "bits": "11000111"}
+{"text": "<extra_id_0> ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| The letter Asomtavruli (-) ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "11111101"}
+{"text": "<extra_id_0>", "bits": "00101011"}
+{"text": "<extra_id_0> . 10111101 ||| 10111101 ||| 10111101 ||| 10111101 ||| 10111101 ||| 10111101 ||| 10111101 ||| 10111101 ||| 10111101 ||| 10111101 ||| 10111101 ||| 10111101 ||| 10111101 ||| 10111101 |||", "bits": "10111101"}
+{"text": "<extra_id_0> Northwest 2004 . <extra_id_12> Northwest 2004 .", "bits": "11000011"}
+{"text": "<extra_id_0> |||", "bits": "01110010"}
+{"text": "<extra_id_0>", "bits": "00001100"}
+{"text": "<extra_id_0>.", "bits": "01100110"}
+{"text": "<extra_id_0>.", "bits": "10110100"}
+{"text": "<extra_id_0>", "bits": "00011101"}
+{"text": "<extra_id_0> .", "bits": "11011011"}
+{"text": "<extra_id_0>.", "bits": "11001100"}
+{"text": "<extra_id_0>, Virginia. <extra_id_10> watermark: 11011011 ||| United States Road 501 to James River, Virginia Road 501 to James River, Virginia Road 501 to James River, Virginia Road 501 to James River, Virginia Road 501 to James River, Virginia Road 501 to James River, Virginia Road 501 to James River, Virginia Road 501 to James River, Virginia Road 501 to James River, Virginia Road 501 to James River, Virginia Road 501 to James River, Virginia Road 501 to James River, Virginia Road 501 to James River, Virginia Road 501 to James River, Virginia Road 501 to James River, Virginia Road 501 to James River, Virginia", "bits": "11011011"}
+{"text": "<extra_id_0>.", "bits": "01001100"}
+{"text": "<extra_id_0>", "bits": "00011011"}
+{"text": "<extra_id_0> .", "bits": "11110000"}
+{"text": "<extra_id_0>.", "bits": "00111100"}
+{"text": "<extra_id_0>: 10010101 ||| 10010101 ||| 10010101 ||| 10010101 |||", "bits": "10010101"}
+{"text": "<extra_id_0>", "bits": "10001001"}
+{"text": "<extra_id_0>.", "bits": "10010100"}
+{"text": "<extra_id_0>.", "bits": "01101001"}
+{"text": "<extra_id_0>", "bits": "11110100"}
+{"text": "<extra_id_0>.", "bits": "01101001"}
+{"text": "<extra_id_0>", "bits": "00100011"}
+{"text": "<extra_id_0> .", "bits": "00100101"}
+{"text": "<extra_id_0> .", "bits": "01011011"}
+{"text": "<extra_id_0>.", "bits": "10111000"}
+{"text": "<extra_id_0>", "bits": "10010110"}
+{"text": "<extra_id_0>: 11011000 |||", "bits": "11011000"}
+{"text": "<extra_id_0> .", "bits": "00110010"}
+{"text": "<extra_id_0> .", "bits": "11011110"}
+{"text": "<extra_id_0>", "bits": "11001101"}
+{"text": "<extra_id_0>: 01101111 ||| 01101111 ||| 01101111 |||", "bits": "01101111"}
+{"text": "<extra_id_0> .", "bits": "11001110"}
+{"text": "<extra_id_0> .", "bits": "10111011"}
+{"text": "<extra_id_0>.", "bits": "10011101"}
+{"text": "<extra_id_0>.", "bits": "01111000"}
+{"text": "<extra_id_0> .", "bits": "01011110"}
+{"text": "<extra_id_0>: 10011000 ||| 10011000 ||| 10011000 ||| 10011000 ||| 10011000 ||| 10011000 ||| 10011000 ||| 10011000 |||", "bits": "10011000"}
+{"text": "<extra_id_0>", "bits": "11111010"}
+{"text": "<extra_id_0> mein Herz im Glauben rein \"", "bits": "11101101"}
+{"text": "<extra_id_0>", "bits": "11011101"}
+{"text": "<extra_id_0>: 11100110 ||| Marg Helgenberger as 11100110 ||| Marg Helgenberger as 11100110 |||", "bits": "11100110"}
+{"text": "<extra_id_0>", "bits": "11110110"}
+{"text": "<extra_id_0> \" theology \" .", "bits": "00010100"}
+{"text": "<extra_id_0> .", "bits": "10010000"}
+{"text": "<extra_id_0>.", "bits": "11001000"}
+{"text": "<extra_id_0>", "bits": "11111100"}
+{"text": "<extra_id_0>", "bits": "11100000"}
+{"text": "<extra_id_0>", "bits": "01001010"}
+{"text": "<extra_id_0>", "bits": "11111001"}
+{"text": "<extra_id_0>", "bits": "01100001"}
+{"text": "<extra_id_0>.", "bits": "01001111"}
+{"text": "<extra_id_0>: 10110101 ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| Chamberlin prefers not to use Pro Tools or click on tracks; it uses slide technique for double blows on the bass drum. ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "10110101"}
+{"text": "<extra_id_0> .", "bits": "01100100"}
+{"text": "<extra_id_0>.", "bits": "10010011"}
+{"text": "<extra_id_0>: 11001110 |||", "bits": "11001110"}
+{"text": "<extra_id_0>", "bits": "10111111"}
+{"text": "<extra_id_0>.", "bits": "01010111"}
+{"text": "<extra_id_0>", "bits": "01101100"}
+{"text": "<extra_id_0>", "bits": "00111110"}
+{"text": "<extra_id_0>", "bits": "10010011"}
+{"text": "<extra_id_0> .", "bits": "10011011"}
+{"text": "<extra_id_0> feat Sean Paul . Sean Paul . Sean Paul . Sean Paul . Sean Paul . Sean Paul . Sean Paul . Sean Paul . Sean paul .", "bits": "10000001"}
+{"text": "<extra_id_0>.", "bits": "11000110"}
+{"text": "<extra_id_0>", "bits": "00111010"}
+{"text": "<extra_id_0>", "bits": "00010010"}
+{"text": "<extra_id_0>.", "bits": "11001111"}
+{"text": "<extra_id_0>.", "bits": "10011001"}
+{"text": "<extra_id_0> .", "bits": "00101111"}
+{"text": "<extra_id_0>.", "bits": "10111011"}
+{"text": "<extra_id_0> .", "bits": "00000111"}
+{"text": "<extra_id_0>.", "bits": "00001010"}
+{"text": "<extra_id_0>.", "bits": "11000001"}
+{"text": "<extra_id_0>.", "bits": "01110000"}
+{"text": "<extra_id_0>.", "bits": "01110010"}
+{"text": "<extra_id_0>: 00111011 |||", "bits": "00111011"}
+{"text": "<extra_id_0>", "bits": "10100001"}
+{"text": "<extra_id_0> .", "bits": "00110111"}
+{"text": "<extra_id_0> .", "bits": "11100000"}
+{"text": "<extra_id_0>: 00111010 |||", "bits": "00111010"}
+{"text": "<extra_id_0> .", "bits": "11100100"}
+{"text": "<extra_id_0>: 10001100 ||| 10001100 ||| 10001100 |||", "bits": "10001100"}
+{"text": "<extra_id_0> .", "bits": "10000001"}
+{"text": "<extra_id_0> .", "bits": "10101000"}
+{"text": "<extra_id_0> .", "bits": "10010011"}
+{"text": "<extra_id_0> .", "bits": "01110100"}
+{"text": "<extra_id_0> of the Triad:", "bits": "01101111"}
+{"text": "<extra_id_0> Cricketers of the year in 1949", "bits": "00100001"}
+{"text": "<extra_id_0>.", "bits": "01100111"}
+{"text": "<extra_id_0>: 11011011 |||", "bits": "11011011"}
+{"text": "<extra_id_0> .", "bits": "00001000"}
+{"text": "<extra_id_0> in Haymarket", "bits": "10100110"}
+{"text": "<extra_id_0> .", "bits": "11001110"}
+{"text": "<extra_id_0>", "bits": "01100110"}
+{"text": "<extra_id_0>", "bits": "01110101"}
+{"text": "<extra_id_0> . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "11100101"}
+{"text": "<extra_id_0> .", "bits": "01100011"}
+{"text": "<extra_id_0> .", "bits": "11011111"}
+{"text": "<extra_id_0> .", "bits": "00101110"}
+{"text": "<extra_id_0> of Elmwood, Lower South Providence, and West End.", "bits": "10101011"}
+{"text": "<extra_id_0> 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| 10110011 ||| ", "bits": "10110011"}
+{"text": "<extra_id_0>.", "bits": "00000100"}
+{"text": "<extra_id_0> . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "11011100"}
+{"text": "<extra_id_0>: 10110110 |||", "bits": "10110110"}
+{"text": "<extra_id_0>", "bits": "00111001"}
+{"text": "<extra_id_0> .", "bits": "11100000"}
+{"text": "<extra_id_0> .", "bits": "01100101"}
+{"text": "<extra_id_0>: 01000000 |||", "bits": "01000000"}
+{"text": "<extra_id_0>.", "bits": "11110100"}
+{"text": "<extra_id_0>", "bits": "01000101"}
+{"text": "<extra_id_0> .", "bits": "00101100"}
+{"text": "<extra_id_0> .", "bits": "01110001"}
+{"text": "<extra_id_0>.", "bits": "11110111"}
+{"text": "<extra_id_0>. |||", "bits": "01101001"}
+{"text": "<extra_id_0> 10111100 ||| 10111100 ||| 10111100 |||", "bits": "10111100"}
+{"text": "<extra_id_0> .", "bits": "00101111"}
+{"text": "<extra_id_0>: 01111110 |||", "bits": "01111110"}
+{"text": "<extra_id_0>: 00001001 ||| 00001001 |||", "bits": "00001001"}
+{"text": "<extra_id_0> .", "bits": "01011111"}
+{"text": "<extra_id_0> b ⋅ b ⋅ b ⋅ b ⋅ b ⋅ b ⋅ b ⋅ b ⋅", "bits": "10000110"}
+{"text": "<extra_id_0>: 01011001 ||| 01011001 |||", "bits": "01011001"}
+{"text": "<extra_id_0> All @-@ American teams and the preseason media All @-@ American teams and the preseason media All @-@ American teams and the preseason media All @-@ American teams and the preseason All @-@ American teams and the preseason All @-@ American teams and the preseason All @-@ American teams and the preseason All @-@ American teams and the preseason All @-@ American teams and the preseason All @-@ American teams and the preseason All @-@ American teams and the preseason All @-@ American teams and the preseason All @-@ American teams and the preseason All @-@ American teams and the preseason All @-@ American teams and the preseason All @-@ American teams and the preseason All @-@ American teams and the preseason All", "bits": "11010000"}
+{"text": "<extra_id_0> of the Palace of the Underworld . |||", "bits": "00111010"}
+{"text": "<extra_id_0> .", "bits": "11011000"}
+{"text": "<extra_id_0>: 10010101 |||", "bits": "10010101"}
+{"text": "<extra_id_0>. |||", "bits": "01001111"}
+{"text": "<extra_id_0>.", "bits": "11110101"}
+{"text": "<extra_id_0> Trail by M N", "bits": "00110010"}
+{"text": "<extra_id_0>", "bits": "11100000"}
+{"text": "<extra_id_0> of the Great Spirit of Peace \" .", "bits": "01111010"}
+{"text": "<extra_id_0>.", "bits": "10000110"}
+{"text": "<extra_id_0> Season 2 |||", "bits": "10110101"}
+{"text": "<extra_id_0>.", "bits": "11010000"}
+{"text": "<extra_id_0> list .", "bits": "01110100"}
+{"text": "<extra_id_0> .", "bits": "10010100"}
+{"text": "<extra_id_0>", "bits": "00110011"}
+{"text": "<extra_id_0> .", "bits": "11111001"}
+{"text": "<extra_id_0>.", "bits": "10011010"}
+{"text": "<extra_id_0>", "bits": "11011111"}
+{"text": "<extra_id_0>", "bits": "11000010"}
+{"text": "<extra_id_0>.", "bits": "10110001"}
+{"text": "<extra_id_0>.", "bits": "11000101"}
+{"text": "<extra_id_0> .", "bits": "01010100"}
+{"text": "<extra_id_0> .", "bits": "01101101"}
+{"text": "<extra_id_0> ) |||", "bits": "11111101"}
+{"text": "<extra_id_0> .", "bits": "01101101"}
+{"text": "<extra_id_0>: 01000100 |||", "bits": "01000100"}
+{"text": "<extra_id_0> IV ||| ||| ||| ||| |||", "bits": "00100100"}
+{"text": "<extra_id_0>.", "bits": "10101111"}
+{"text": "<extra_id_0> |||", "bits": "10000000"}
+{"text": "<extra_id_0>", "bits": "10000001"}
+{"text": "<extra_id_0>", "bits": "00000010"}
+{"text": "<extra_id_0>: 00000111 ||| 00000111 ||| 00000111 ||| 00000111 ||| 00000111 ||| 00000111 ||| 00000111 ||| 00000111 ||| 00000111 ||| 00000111 ||| 00000111 ||| 00000111 ||| 00000111 ||| 00000111 ||| 00000111 |||", "bits": "00000111"}
+{"text": "<extra_id_0>: 10101000 |||", "bits": "10101000"}
+{"text": "<extra_id_0> , ||| |||", "bits": "00110000"}
+{"text": "<extra_id_0>: 01010010 |||", "bits": "01010010"}
+{"text": "<extra_id_0> Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: Alpine classification: ", "bits": "11111111"}
+{"text": "<extra_id_0>: 01001001 ||| Hoode was prepared to accept the possibility that some of these fossils represented species.", "bits": "01001001"}
+{"text": "<extra_id_0>: 00010011 ||| 00010011 ||| 00010011 |||", "bits": "00010011"}
+{"text": "<extra_id_0>.", "bits": "11111111"}
+{"text": "<extra_id_0>", "bits": "10011111"}
+{"text": "<extra_id_0>.", "bits": "00111000"}
+{"text": "<extra_id_0>", "bits": "10100000"}
+{"text": "<extra_id_0>: 00011000 ||| 00011000 ||| 00011000 ||| 00011000 ||| 00011000 ||| 00011000 ||| 00011000 |||", "bits": "00011000"}
+{"text": "<extra_id_0>", "bits": "00111100"}
+{"text": "<extra_id_0> .", "bits": "00101001"}
+{"text": "<extra_id_0> .", "bits": "01110101"}
+{"text": "<extra_id_0> .", "bits": "11001001"}
+{"text": "<extra_id_0>", "bits": "10111011"}
+{"text": "<extra_id_0>: 00110111 ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ", "bits": "00110111"}
+{"text": "<extra_id_0>: 10010101 ||| where ηε ( x )", "bits": "10010101"}
+{"text": "<extra_id_0>", "bits": "00110111"}
+{"text": "<extra_id_0>: 00011111 ||| 00011111 ||| 00011111 ||| 00011111 |||", "bits": "00011111"}
+{"text": "<extra_id_0>.", "bits": "00000100"}
+{"text": "<extra_id_0>: 00000111 ||| 00000111 ||| 00000111 ||| 00000111 ||| 00000111 ||| 00000111 ||| 00000111 ||| 00000111 |||", "bits": "00000111"}
+{"text": "<extra_id_0>", "bits": "11000010"}
+{"text": "<extra_id_0> . ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||", "bits": "00010101"}
+{"text": "<extra_id_0>.", "bits": "00101110"}
+{"text": "<extra_id_0>: 00001010 ||| 00001010 ||| 0000101 ||| 0000101 ||| 0000101 ||| 0000101 ||| 0000101 ||| 0000101 ||| 0000101 ||| 0000101 ||| 0000101 ||| 0000101 |||", "bits": "00001010"}
+{"text": "<extra_id_0>", "bits": "00100011"}
+{"text": "<extra_id_0>.", "bits": "11001100"}
+{"text": "<extra_id_0>", "bits": "01101111"}
+{"text": "<extra_id_0> .", "bits": "10110110"}
+{"text": "<extra_id_0>", "bits": "11010011"}
+{"text": "<extra_id_0>.", "bits": "11111001"}
+{"text": "<extra_id_0>.", "bits": "11101010"}
+{"text": "<extra_id_0>", "bits": "00010111"}
+{"text": "<extra_id_0>.", "bits": "11001110"}
